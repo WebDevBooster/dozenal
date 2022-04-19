@@ -61,7 +61,7 @@ Our computers will keep using the binary system because that's better for *them*
 By the way, in Star City, we'll also be using a [completely new calendar system](https://github.com/WebDevBooster/Starlendar) that you'll especially enjoy after your ascend to the dozenal royalty. :-)
 
 
-### The How
+### Dozenal Societies
 
 Before we talk about the *how*, I'm gonna say something that some might consider "controversial". I'm aware that things like the Dozenal Society of Great Britain and the Dozenal Society of America exist. And I say that: 
 
@@ -90,4 +90,6 @@ Results as in:
 
 I can tell you that even blindfolded and with both of my hands tied behind my back, I'll get more people to use the dozenal system than all of those societies combined. So, whatever those societies are saying or proposing, **it doesn't matter**. I ignore it. 
 
+
+### The How
 
