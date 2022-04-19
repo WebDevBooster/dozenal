@@ -38,7 +38,7 @@ I'm glad you already agree that the dozenal system is MUCH BETTER. :-)
 
 In layman's terms a *divisor* or a *factor* is a number than can be used to divide another number so that nothing remains. "Clean" division with *no remainder*, no fractions. That's the idea. 
 
-In every-day life — **as a human** — you want a numeral system that gives you as many divisors/factors as possible because dealing with fractions like 1.333333333333333 or 4.666666666666666 is nasty, annoying and... *inhuman*. 
+In every-day life — **as a human** — you want a numeral system that gives you as many divisors/factors as possible because dealing with fractions like 3.333333333333333 or 2.666666666666666 is nasty, annoying and... *inhuman*. 
 
 It stinks!
 
@@ -62,4 +62,32 @@ By the way, in Star City, we'll also be using a [completely new calendar system]
 
 
 ### The How
+
+Before we talk about the *how*, I'm gonna say something that some might consider "controversial". I'm aware that things like the Dozenal Society of Great Britain and the Dozenal Society of America exist. And I say that: 
+
+#### It's safe to *ignore* what the Dozenal Society of Great Britain or the Dozenal Society of America have ever said or done.
+
+Why? 
+
+If someone doesn't understand even the most fundamental BASICS of persuasion i.e. something that's required for anyone who is even remotely serious about establishing this system in the world, then they should stay OUT of a conversation. Until they learn at least those ***rudimentary BASICS***. 
+
+It might only take half an hour to learn the basics but you gotta do it before you try to "chip in" in a conversation on the topic. 
+
+If someone doesn't even know that `1 + 1 = 2` in maths, you can't take them seriously if they try to join a conversation about differential equations. One can't fail any harder if they think that `1 + 1 = 11` **in maths**. Mathematical rules are crystal clear. `1 + 1` always equals `2` in maths. No ambiguity, no exceptions. 
+
+That's a metaphor to say that people running those societies are as clueless about the most rudimentary basics of persuasion as it gets. They need to understand at least those BASICS before they can join this conversation. 
+
+But hey, those societies can do whatever they want. 
+
+I'm just saying that **in Star City** we'll completely ignore their suggestions. 
+
+And the ultimate "proof" will be "in the pudding". 
+
+In other words, the only thing that matters in the end are the RESULTS.  
+Results as in: 
+
+#### How many people are actually *using* the system you're promoting?
+
+I can tell you that even blindfolded and with both of my hands tied behind my back, I'll get more people to use the dozenal system than all of those societies combined. So, whatever those societies are saying or proposing, **it doesn't matter**. I ignore it. 
+
 
