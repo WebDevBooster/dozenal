@@ -24,6 +24,8 @@ Well, such system exists. It's called **dozenal** and instead of ten numbers it 
 
 So, each of the twelve numbers in dozenal is a **single digit** number. The number ten is called **dek** in dozenal and the biggest single digit dozenal number is called **el**. 
 
+#### Zero, one, two, three, four, five, six, seven, eight, nine, dek, el.
+
 And instead of counting to just ten on your hands (like a medieval peasant), you can use those same two hands to count to a **DOZEN DOZENS!** (that's 144 for medieval peasants)
 
 What's that?... 144 is more than twice better?
