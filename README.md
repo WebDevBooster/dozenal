@@ -20,7 +20,7 @@ But what if there was a numeral system that's not just slightly better but **TWO
 
 For humans. In daily life. 
 
-Well, such system exists. It's called **dozenal** and instead of ten numbers it uses twelve numbers: zero to eleven. 
+Well, such system exists. It's called **dozenal** and instead of ten numbers it uses twelve numbers: zero to el. 
 
 So, each of the twelve numbers in dozenal is a **single digit** number. The number ten is called **dek** in dozenal and the biggest single digit dozenal number is called **el**. 
 
