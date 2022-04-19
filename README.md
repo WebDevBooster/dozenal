@@ -58,6 +58,8 @@ This is why the dozenal system will be the primary numeral system in [Star City]
 
 Our computers will keep using the binary system because that's better for *them*. And in engineering and programming we might keep using the decimal system (for backward compatibility etc.). But for day-to-day *human* use the dozenal system is superior to the decimal system. That's a fact. 
 
+By the way, in Star City, we'll also be using a [completely new calendar system](https://github.com/WebDevBooster/Starlendar) that you'll especially enjoy after your ascend to the dozenal royalty. :-)
+
 
 ### The How
 
