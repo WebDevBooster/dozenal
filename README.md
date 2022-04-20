@@ -202,6 +202,8 @@ What about the number "el" then?
 
 The word for number "el" only consists of 2 letters. Wow! It doesn't get any shorter than that. And it feels and sounds amazing. The beauty and simplicity of that word is mesmerizing. It will make every dozenal user happy that the word for the single digit number with the highest value is such a beauty. 
 
+The word "el" also has a mnemonic connection to the word "eleven". That's a bonus. 
+
 Perfect! With *dek* and *el* we have two words that have already been engineered to perfection. So, we can copy them as is. I don't know who has engineered those words, but they've done an excellent job. 
 
 
