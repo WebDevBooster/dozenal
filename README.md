@@ -14,7 +14,7 @@ So, shouldn't we all just switch to using ones and zeros (just 2 numbers) for co
 
 Why do humans use a base-ten i.e. the decimal system instead of the binary system?
 
-Because for *human use* the binary system is super-unwieldy. That's why. 
+Because for *human use* the binary system is super-clunky. That's why. 
 
 While perfect for computers, the binary system is *hard to use* for humans in daily life. That's why most people prefer to use the decimal system in normal day-to-day life. You know, using ten numbers 0 to 9. 
 
