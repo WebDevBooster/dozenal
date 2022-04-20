@@ -1,10 +1,12 @@
-# Dozenal
+# Dozenal: Superior Numeral System for Human Use
 
-## Superior numeral system for day-to-day use and the primary numeral system for [Star City](https://github.com/WebDevBooster/star-city-manifesto)
+## The primary numeral system for [Star City](https://github.com/WebDevBooster/star-city-manifesto)
 
-### The Why
+---
 
-#### Dozenal is 2x better than decimal.
+## The Why
+
+### Dozenal is 2x better than decimal.
 
 Why aren't people using the [**binary**](https://en.wikipedia.org/wiki/Binary_number) system of numerals in day-to-day life? After all, computers can and do calculate EVERYTHING using just ones and zeros. All calculations in maths, engineering, programming, science... ALL of them can be done perfectly well using the binary system. 
 
@@ -24,7 +26,7 @@ Well, such system exists. It's called **dozenal** and instead of ten numbers it 
 
 So, each of the twelve numbers in dozenal is a **single digit** number. The number ten is called **dek** in dozenal and the biggest single digit dozenal number is called **el**. 
 
-#### Zero, one, two, three, four, five, six, seven, eight, nine, dek, el.
+### Zero, one, two, three, four, five, six, seven, eight, nine, dek, el.
 
 And instead of counting to just ten on your hands (like a medieval peasant), you can use those same two hands to count to a **DOZEN DOZENS!** (that's 144 for medieval peasants)
 
@@ -52,7 +54,7 @@ Long story short, when ignoring *trivial* divisors (every number can be divided 
 
 But when you ascend to the royal status by switching to the dozenal system, you gain TWO additional non-trivial divisors. Because not only can a dozen be divided cleanly by *two* and in *half* but things also remain squeeky clean when a dozen is divided by *three* or by *four*. 
  
-#### TWO TIMES MORE non-trivial divisors is 2x better for day-to-day human use.
+### TWO TIMES MORE non-trivial divisors is 2x better for day-to-day human use.
 
 This is why the dozenal system will be the primary numeral system in [Star City](https://github.com/WebDevBooster/star-city-manifesto). It's 2 times better (for daily human use) and **everything** in Star City will be at least 2 times better compared to what you're used to.
 
@@ -60,12 +62,13 @@ Our computers will keep using the binary system because that's better for *them*
 
 By the way, in Star City, we'll also be using a [completely new calendar system](https://github.com/WebDevBooster/Starlendar) that you'll especially enjoy after your ascend to the dozenal royalty. :-)
 
+---
 
-### Dozenal Societies
+## Dozenal Societies
 
 Before we talk about the *how*, I'm gonna say something that some might consider "controversial". I'm aware that things like the Dozenal Society of Great Britain and the Dozenal Society of America exist. And I say that: 
 
-#### It's safe to *ignore* what the Dozenal Society of Great Britain or the Dozenal Society of America have ever said or done.
+### It's safe to *ignore* what the Dozenal Society of Great Britain or the Dozenal Society of America have ever said or done.
 
 Why? 
 
@@ -86,12 +89,13 @@ And the ultimate "proof" will be "in the pudding".
 In other words, the only thing that matters in the end are the RESULTS.  
 Results as in: 
 
-#### How many people are actually *using* the system you're promoting?
+### How many people are actually *using* the system you're promoting?
 
 I can tell you that even blindfolded and with both of my hands tied behind my back, I'll get more people to use the dozenal system than all of those societies combined. So, whatever those societies are saying or proposing, **it doesn't matter**. I ignore it. 
 
+--- 
 
-### The Guidelines
+## The Guidelines
 
 The following guidelines are meant to allow anyone to join this discussion or work on the development of the dozenal system. Even if you aren't a persuasion expert. It's possible that we might deviate from a guideline on occasion, but the aim should be to keep as close to them as possible. 
 
@@ -177,6 +181,7 @@ When you present this new dozenal system to them, people will decide within 3 SE
 And if you roll up with a lame-ass donkey, the decision is gonna be against you. Good night! 
 
 
+---
 
-### The How
+## The How
 
