@@ -38,7 +38,7 @@ I'm glad you already agree that the dozenal system is MUCH BETTER. :-)
 
 In layman's terms a *divisor* or a *factor* is a number than can be used to divide another number so that nothing remains. "Clean" division with *no remainder*, no fractions. That's the idea. 
 
-In every-day life — **as a human** — you want a numeral system that gives you as many divisors/factors as possible because dealing with fractions like 3.333333333333333 or 2.666666666666666 is nasty, annoying and... *inhuman*. 
+In every-day life — **as a human** — you want a numeral system that gives you as many divisors/factors as possible because dealing with fractions like 3.333333333333333 or 2.666666666666667 is nasty, annoying and... *inhuman*. 
 
 It stinks!
 
@@ -89,6 +89,70 @@ Results as in:
 #### How many people are actually *using* the system you're promoting?
 
 I can tell you that even blindfolded and with both of my hands tied behind my back, I'll get more people to use the dozenal system than all of those societies combined. So, whatever those societies are saying or proposing, **it doesn't matter**. I ignore it. 
+
+
+### The Guidelines
+
+The following guidelines are meant to allow anyone to join this discussion or work on the development of the dozenal system. Even if you aren't a persuasion expert. It's possible that we might deviate from a guideline on occasion, but the aim should be to keep as close to them as possible. 
+
+The core idea is: 
+
+We aren't introducing the dozenal system in a vacuum. We are competing with a firmly established decimal system. It IS a competition! 
+
+So, ideally, ***every single element*** of the dozenal system we introduce... ***every single word*** etc. should be **AT LEAST AS GOOD OR BETTER** than the decimal counterpart!
+
+**AT LEAST AS GOOD OR BETTER!**
+
+Every little thing!
+
+If even just one little thing in our dozenal system is inferior or ***seems*** inferior... ***feels*** inferior... ***sounds*** inferior compared to the decimal counterpart, that's unacceptable. 
+
+EVERY little thing must be **AT LEAST AS GOOD OR BETTER!**
+
+I'll give you one example to get you on the right track:
+
+The **proposed** dozenal counterpart for the word *hundred* is "gross". And according to [this Wikipedia page](https://en.wikipedia.org/wiki/Gross_%28unit%29) that word/name seems to have a historical or traditional background. 
+
+Now, the question is: What's wrong with that? 
+
+What's wrong with using the word "gross" as the dozenal counterpart for the word *hundred*?
+
+Based on the core idea of this chapter, you should be able to immediately answer that question. You should immediately KNOW — within the first **second** of you reading that word — why it cannot be used for our purposes.
+
+And if you do know... if you ***felt*** within a split-second of you reading that word the reason why we absolutely cannot use that word for our purposes, then congratulations! You've passed the test.
+
+Even without being a persuasion expert you can now discuss this topic and make meaningful contributions to developing this system. 
+
+*But shouldn't we respect the traditional background of the word "gross" and use it anyway?*
+
+Here's a brilliant definition of the word tradition: 
+
+> **Tradition**  
+> *Peer pressure from dead people.*
+
+In Star City, we'll actively try to break and DESTROY as many traditions as we can get our hands on. And then we'll create our own traditions (if we feel like it). 
+
+Oh, and in case you happen to be a slow learner, [Wiktionary lists](https://en.wiktionary.org/wiki/gross) a number of different defininions of the word "gross". Among them: 
+
+> *(of behaviour considered to be wrong)* Highly or conspicuously offensive.
+
+or 
+
+> *(slang, Canada, US)* Causing disgust.
+
+or 
+
+> Lacking refinement in behaviour or manner; offending a standard of morality.
+
+Those are all *modern* definitions of the word. And while those are all definitions of "gross" as the adjective and not as the noun, it doesn't matter. 
+
+What matters is what people instinctively ***feel*** when using that word. Feel within a split-second. 
+
+Would using the word "gross" as the dozenal counterpart to the word hundred FEEL that this word is **AT LEAST AS GOOD OR BETTER** than the word *hundred*? 
+
+No, it wouldn't. End of story. 
+
+
 
 
 ### The How
