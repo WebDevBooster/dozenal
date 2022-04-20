@@ -180,6 +180,30 @@ When you present this new dozenal system to them, people will decide within 3 SE
 
 And if you roll up with a lame-ass donkey, the decision is gonna be against you. Good night! 
 
+Now, that you've leveled up to the status of a "persuasion master", you are ready for the third and most advanced example. The biggest single digit numbers in the dozenal system are the number *dek* and the number *el*. 
+
+But here's the problem: Neither of those numbers has a counterpart in the decimal system. Both numbers are unique. So, what do you do now? How do you make sure that both numbers are **AT LEAST AS GOOD OR BETTER** than their decimal counterparts if they don't have any counterparts in the decimal system?
+
+This is something you can only handle as a "persuasion master" and since you've reached that level (congratulations!), you are equipped to handle this. 
+
+To be clear: Right now, we are only talking about the **names** of those numbers. Their names in English, not their numerical representation. So, the words "dek" and "el" are the subject of this discussion. 
+
+There's nothing in the decimal system to compare them to. No counterparts. 
+
+In this case, you have to take an analytical approach while still keeping in mind that your gut is the ***primary*** decision-maker. Your gut feelings, your emotions take precedence over any analytics. Because every other human will react exactly the same way. 
+
+So, number "dek". Only 3 characters. Nice and short. No idiotic letter "c" nonsense, no "ck", just one letter "k" at the end as it should be where you have a "k" sound. CLEAN! 
+
+OK, it "looks" good but how does it FEEL? And how does it sound?
+
+Well, it sounds nice and snappy. Energetic. Dynamic. And it feels GREAT! 
+
+What about the number "el" then? 
+
+The word for number "el" only consists of 2 letters. Wow! It doesn't get any shorter than that. And it feels and sounds amazing. The beauty and simplicity of that word is mesmerizing. It will make every dozenal user happy that the word for the single digit number with the highest value is such a beauty. 
+
+Perfect! With *dek* and *el* we have two words that have already been engineered to perfection. So, we can copy them as is. I don't know who has engineered those words, but they've done an excellent job. 
+
 
 ---
 
