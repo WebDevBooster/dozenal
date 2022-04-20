@@ -152,6 +152,29 @@ Would using the word "gross" as the dozenal counterpart to the word hundred FEEL
 
 No, it wouldn't. End of story. 
 
+Here's another example... And this is gonna be your final test question if you wanna level up. 
+
+The word dozen is a great word on many occasions. Especially if you want to emphasize. But we also need a shorter counterpart to the word ten. 
+
+The **proposed** dozenal counterpart for that is "doe".
+
+Now, tell me: What's wrong with that?
+
+If you can see several things, what's the **main** reason why "doe" cannot be used as the dozenal counterpart to the word ten?
+
+It's lame. That's the main reason. Go ahead, say that word out loud. Can you feel how lame-ass "doe" feels when compared to *ten*?
+
+In pronunciation, *ten* feels snappy and fast. In contrast to that, "doe" feels like a lame, 3-legged donkey. 
+
+So, there's zero chance we'll ever use that word for this purpose. 
+
+See how much emphasis there is on FEELINGS?
+
+That's because people make decisions based on emotions and then, later, justify those decisions with logic. 
+
+When you present this new dozenal system to them, people will decide within 3 SECONDS whether they like it or not. So, 3 seconds is the MAXIMUM you've got. Many people will decide long before the 3 seconds are up. The emotional, gut-level ***feeling*** is what will make them decide. 
+
+And if you roll up with a lame-ass donkey, the decision is gonna be against you. Good night! 
 
 
 
