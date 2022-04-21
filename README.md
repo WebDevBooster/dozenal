@@ -206,6 +206,22 @@ The word "el" also has a mnemonic connection to the word "eleven". That's a bonu
 
 Perfect! With *dek* and *el* we have two words that have already been engineered to perfection. So, we can copy them as is. I don't know who has engineered those words, but they've done an excellent job. 
 
+### Summary
+
+Every element of the dozenal system must *look, feel and sound* **AT LEAST AS GOOD OR BETTER** than their decimal counterpart. And if no such counterparts exist, the elements must *look, feel and sound* in a way that emphasizes the superiority of the dozenal system. 
+
+### Dozenal Elements Checklist
+
+Compared to its decimal counterpart... 
+
+- [ ] is the word element at least as short or shorter? (number of characters)
+- [ ] is it easy to pronounce? (both individually and combined with others?)
+- [ ] is it easy to understand without potential confusion with other numbers?
+- [ ] is it free from undesirable associations?
+- [ ] does it look at least as good or better?
+- [ ] does it feel at least as good or better?
+- [ ] does it sound at least as good or better?
+
 
 ---
 
