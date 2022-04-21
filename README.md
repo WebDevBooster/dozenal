@@ -216,7 +216,7 @@ Compared to its decimal counterpart...
 
 - [ ] is the word element at least as short or shorter? (number of characters)
 - [ ] is it easy to pronounce? (both individually and combined with others?)
-- [ ] is it easy to understand without potential confusion with other numbers?
+- [ ] is it easy to understand and is there no potential confusion with other numbers?
 - [ ] is it free from undesirable associations?
 - [ ] does it look at least as good or better?
 - [ ] does it feel at least as good or better?
