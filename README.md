@@ -30,13 +30,27 @@ So, each of the twelve numbers in dozenal is a **single digit** number. The numb
 
 And instead of counting to just ten on your hands (like a medieval peasant), you can use those same two hands to count to a **DOZEN DOZENS!** (that's 144 for medieval peasants)
 
-What's that?... 144 is more than twice better?
+How?
 
-Well, I was lying. 
+Use the thumb of your dominant hand to touch each of the twelve finger bones (phalanges) starting with red and ending with **GOLD** while counting: 
 
-I'm glad you already agree that the dozenal system is MUCH BETTER. :-)
+One, two, three, four, five, six, seven, eight, nine, dek, el, dozen.
+
+![counting in dozenal](./assets/counting-in-dozenal.png)
+
+To keep track of this first dozen, use the thumb of your other hand to touch and *hold* the first (red) phalange there. Now start counting the next dozen on your dominant hand and so on. 
+
+You can count to a **DOZEN DOZENS** doing that.
+
+Don't worry, we also have a short word for *dozen* and we have a single short word for "dozen dozens" but you are just a beginner now. Baby steps.
+
+What's that?... 
+
+*This is more than twice better?*
+
+Well, I'm glad you already agree that the dozenal system is MUCH BETTER. :-)
  
- But here's what I meant by "2x better": 
+But here's what I meant by "2x better": 
 
 In layman's terms a *divisor* or a *factor* is a number than can be used to divide another number so that nothing remains. "Clean" division with *no remainder*, no fractions. That's the idea. 
 
