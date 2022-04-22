@@ -111,7 +111,9 @@ I can tell you that even blindfolded and with both of my hands tied behind my ba
 
 ## The Guidelines
 
-The following guidelines are meant to allow anyone to join this discussion or work on the development of the dozenal system. Even if you aren't a persuasion expert. It's possible that we might deviate from a guideline on occasion, but the aim should be to keep as close to them as possible. 
+The following guidelines are meant to allow anyone to join this discussion or work on the development of the dozenal system. Even if you aren't a persuasion expert. 
+
+It's possible that we might deviate from these guidelines on occasion, but the aim should be to keep as close to them as possible. 
 
 The core idea is: 
 
