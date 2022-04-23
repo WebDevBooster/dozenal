@@ -243,3 +243,26 @@ Compared to its decimal counterpart...
 
 ## The How
 
+The next obvious question is: How should the numbers *dek* and *el* actually be represented in their numerical form? And how do they look compared to the numbers zero to nine?
+
+The dozenal societies went with a cheap, lazy and amateurish approach by simply turning the numbers 2 and 3 upside-down to represent dek and el. It's instantly obvious they are just upside-down 2 and 3. And it looks **shitty**.
+
+Of course, it's easy to implement something when you just take an existing element and turn it upside-down. But just because it's easy and cheap, doesn't mean it's the right thing to do. If those dozenal societies don't have what it takes to do it right, they have no business doing anything to begin with. 
+
+We need something that looks like **NEW** numbers and something that looks good, not cheap and amateurish.
+
+Here's my draft for what the numbers `dek` and `el` should *approximately* look like in Arial font (compared to the other numbers):
+
+![dozenal numbers draft](./assets/dozenal-numbers-draft2.png)
+
+The number el needs a designer's touch because that modified &#400; I borrowed from the [Latin capital letter open E (&#400;)](https://en.wiktionary.org/wiki/%C6%90) isn't completely straight like the other numbers. There needs to be a normal, a bold and an italic version for both numbers (just like with all other numbers). The number el can't always be italic or "half italic".
+
+Both numbers are extremely easy to write for handwriting, extremely easy to spell out and short i.e. "dek" and "el" and extremely easy to pronounce.
+
+The number `dek` has a resemblance with the Roman numeral X which gives us a mnemonic connection to the number ten. That association works in favor of acceptance. 
+
+The number `el` resembles a capital E and thus gives us a mnemonic connection to the number eleven. Once again: this helps to gain people's acceptance.
+
+Until we get the numbers dek and el fully fleshed out (with new dedicated glyphs etc.), we can temporarily borrow the [Cyrillic capital letter HA with hook (&#1276;)](https://en.wiktionary.org/wiki/%D3%BC) for the number `dek` and [Latin capital letter open E (&#400;)](https://en.wiktionary.org/wiki/%C6%90) for the number `el`. Or even simpler than that, just use the capital letter X and the capital E in the interim. 
+
+
