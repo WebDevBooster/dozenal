@@ -359,7 +359,7 @@ In practice, we'll probably have to add the decimal representation in parenthese
 
 | z value | z name | x value | x counterpart | checklist?
 |---------|--------|--------|----------------|---
-| 'X      | dek    | 10     | n/a (ten)      | n/a (yes)
+| 'X      | dek    | 10     | n/a (ten)    | n/a (yes)[^1]
 | 'E      | el     | 11     | n/a (eleven)   | n/a (yes)
 | '10     | den    | 12     | ten (twelve)   | yes (yes)
 | '11     | solreen| 13     | eleven (thirteen)| yes (yes)
@@ -368,3 +368,5 @@ In practice, we'll probably have to add the decimal representation in parenthese
 | '14     | foreen | 16     | fourteen | yes
 | '15     | fifreen| 17     | fifteen  | yes
 
+
+[^1]: Footnote number one.
