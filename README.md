@@ -226,7 +226,7 @@ Perfect! With *dek* and *el* we have two words that have already been engineered
 
 Every element of the dozenal system must *look, feel and sound* **AT LEAST AS GOOD OR BETTER** than their decimal counterpart. And if no such counterparts exist, the elements must *look, feel and sound* in a way that emphasizes the superiority of the dozenal system. 
 
-### Dozenal Elements Checklist
+### Dozenal elements checklist
 
 Compared to its decimal counterpart... 
 
@@ -243,6 +243,8 @@ Compared to its decimal counterpart...
 
 ## The How
 
+### Numerical representation of *dek* and *el*
+
 The next obvious question is: How should the numbers *dek* and *el* actually be represented in their numerical form? And how do they look compared to the numbers zero to nine?
 
 The dozenal societies went with a cheap, lazy and amateurish approach by simply turning the numbers 2 and 3 upside-down to represent dek and el. It's instantly obvious they are just upside-down 2 and 3. And it looks **shitty**.
@@ -250,6 +252,16 @@ The dozenal societies went with a cheap, lazy and amateurish approach by simply 
 Of course, it's easy to implement something when you just take an existing element and turn it upside-down. But just because it's easy and cheap, doesn't mean it's the right thing to do. If those dozenal societies don't have what it takes to do it right, they have no business doing anything to begin with. 
 
 We need something that looks like **NEW** numbers and something that looks good, not cheap and amateurish.
+
+Of course, adding 2 brand-new glyphs to all the existing fonts is gonna require a tremendous effort. By some estimates, there are **at least half a million** fonts in existence! 
+
+But in Star City we'll never gonna do things in a *half-assed* way. 
+
+### If something is worth doing, it MUST be done properly. 
+
+At the beginning, we only need *dek* and *el* glyphs for a few dozen commonly used fonts. And we need a set of instructions/guidelines for creating these glyphs in different font types. And then we need to recruit an army of skilled volunteers that start designing the glyphs.
+
+The default installation of Windows ships with [just 160 or so fonts](https://en.wikipedia.org/wiki/List_of_typefaces_included_with_Microsoft_Windows). And Mac ships with [about 120](https://en.wikipedia.org/wiki/List_of_typefaces_included_with_macOS) many of which are identical with fonts on Windows. And as of April 2022, Google Fonts had [1,400 font families](https://en.wikipedia.org/wiki/Google_Fonts). Creating *dek* and *el* glyphs for those 1,600 or so fonts is easily doable and would cover most people's needs at the beginning.
 
 Here's my draft for what the numbers `dek` and `el` should *approximately* look like in Arial font (compared to the other numbers):
 
@@ -269,5 +281,69 @@ The number `dek` has a resemblance with the Roman numeral X which gives us a mne
 The number `el` resembles a capital E and thus gives us a mnemonic connection to the number eleven. Once again: this helps to gain people's acceptance.
 
 Until we get the numbers dek and el fully fleshed out (with new dedicated glyphs etc.), we can temporarily borrow the [Cyrillic capital letter HA with hook (&#1276;)](https://en.wiktionary.org/wiki/%D3%BC) for the number `dek` and [Latin capital letter open E (&#400;)](https://en.wiktionary.org/wiki/%C6%90) for the number `el`. Or even simpler than that, just use the capital letter X and the capital E in the interim. 
+
+
+### Base notation
+
+The next question we need to answer is:  
+How do we distinguish the dozenal base from the decimal?
+
+Because we'll be re-using the numbers `0 1 2 3 4 5 6 7 8 9`, when you see a number like `42`, you need to know whether that number is in decimal or in dozenal. 
+
+None of the proposals I've seen for solving this problem are satisfactory. And some proposals are just plain idiotic like the proposal to *italicize* dozenal numbers.
+
+Now, because the decimal system is currently the prevalent numeral system in the world, we don't have a choice but treat numbers *without* any notation as decimal numbers by default. So, we'd have to assume that a plain `42` is in decimal. 
+
+This means that for dozenal numbers we are forced to add some notation. 
+
+This goes against the guideline of "must *look, feel and sound* **AT LEAST AS GOOD OR BETTER** than their decimal counterpart" but in this case we don't have a choice. 
+
+We could, of course, introduce a notation for both dozenal AND decimal. And in Star City, we'll probably do that. But who's gonna use it outside of Star City? And what about all the numbers that **have already been written/published**? Nobody is gonna reprint a book or edit a website just to denote that the numbers they have there are meant to be in decimal. 
+
+So, this is probably gonna be the one and only exception to the "**AT LEAST AS GOOD OR BETTER**" guideline. We need to add a notation that will clearly distinguish dozenal from decimal. And just because we are *adding* something to a number, it won't be "at least as good or better". Adding something is an extra step that makes the number inferior when compared to the decimal counterpart that doesn't need any additions. 
+
+Next: 
+
+Whatever we choose to add to a number to denote the dozenal base, MUST be added either immediately *before* the number or on top of the *first* digit of the number. 
+
+This is a MUST. Adding something *after* the number would be absolutely unacceptable. If you add something afterwards, the eye has to scan and read the whole number before realizing that the number is supposed to be interpreted as dozenal. 
+
+That's just common sense to me but based on the proposals I've seen, common sense is FAR from common. Idiotic proposals are everywhere. You gotta understand the basic "1 + 1" before you try to discuss "differential equations". 
+
+Next: 
+
+OK, we need to add something ether immediately *before* a number or on top of the *first digit* of a number. But what do we add?
+
+Adding a diacritic from the [Swedish letter &#197; &#229;](https://en.wikipedia.org/wiki/%C3%85) was one of many potential options I had explored: 
+
+![dozenal-numbers-v2.4.1](./assets/dozenal-numbers-v2.4.1.png)
+
+But ultimately, this wouldn't be a great option. 
+
+I mean, there are NO great options possible. A great option would be to add nothing at all. But that is reserved for decimal. We HAVE to add something, which is never gonna be great. 
+
+Those tiny circles from the Swedish letter &#229; would be super-difficult to write in handwriting. So, most people would resort to putting a dot on top (instead of drawing a circle). A single dot on top of the first digit of a number is easy to miss. Two dots is too much hassle. 
+
+So, the real question is: 
+
+### What would be the least possible compromise and the simplest/easiest thing to implement?
+
+We need to add something that's absolutely **dead-simple** and **mega-easy** to use both in handwriting and on a computer keyboard. Even if you use a standard keyboard and not my superior [Dvorak-Booster keyboard layout](https://github.com/WebDevBooster/Dvorak-Booster-Keyboard-Layout). 
+
+When you reframe the question like that, there's only one possible option left and that is to use the apostrophe `'`. 
+
+The apostrophe is **dead-simple** to use, easily accessible on any keyboard, requires a minimal amount of hand movement in handwriting, can be immediately implemented by anyone and makes a number clearly distinguishable as "something special" when you stick an apostrophe immediately in front of a number like so: `'42`.
+
+If you need to use quotation marks, leave a space between the first quotation mark and the apostrophe like so: `" '42"`. Again, this is not ideal. Ideal would be to add nothing at all. But we don't have that option. 
+
+No matter what we choose to denote the dozenal base, we only have bad options. A good option would be to NOT add anything. 
+
+So, sticking an apostrophe immediately in front of a number is *the least bad* of all the bad options. And by far the easiest option to implement (which will help with adoption). 
+
+I know that in advanced mathematics they sometimes use apostrophe (although I have no idea what it means there). But in advanced mathematics, they are already used to adding a bunch of extra notations. So, it won't be a problem for them to add a z (for do*z*enal) like so: <sup>z</sup>42
+
+For regular use though, that supperscript z would be too much hassle and would look far LESS elegant than an apostrophe. 
+
+Since dek and el are unique to the dozenal system, numbers that start with either one of them wouldn't need an apostrophe in front. However, for consistency reasons it might be a good idea add the apostrophe in those cases as well. 
 
 
