@@ -257,6 +257,11 @@ Here's my draft for what the numbers `dek` and `el` should *approximately* look 
 
 The number el needs a designer's touch because that modified &#400; I borrowed from the [Latin capital letter open E (&#400;)](https://en.wiktionary.org/wiki/%C6%90) isn't completely straight like the other numbers. There needs to be a normal, a bold and an italic version for both numbers (just like with all other numbers). The number el can't always be italic or "half italic".
 
+And no, the number `el` cannot be a mirror image of the number 3 either. It MUST look and feel like a **NEW** and unique number. No cheap shortcuts! I had tried flipping the number 3. It looks ugly. 
+
+Graphic and font designers:  
+This is your chance to shine! Improve the preliminary design of the number `el` to make it look great and unique!
+
 Both numbers are extremely easy to write for handwriting, extremely easy to spell out and short i.e. "dek" and "el" and extremely easy to pronounce.
 
 The number `dek` has a resemblance with the Roman numeral X which gives us a mnemonic connection to the number ten. That association works in favor of acceptance. 
