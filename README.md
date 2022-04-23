@@ -357,10 +357,14 @@ In practice, we'll probably have to add the decimal representation in parenthese
 36 (<sup>x</sup>42)
 
 
-| z value | z name | x value | x c-part | checklist? |
-|---------|--------|--------|----------|------------|
-| 'X      | dek    | 10     | n/a \ ten| n/a \ yes
-| 'E      | el     | 11     | n/a \ eleven| n/a \ yes
-| '10     | den    | 12     | ten \ twelve| yes \ yes
-| '11     | solreen| 13     | eleven \ thirteen| yes \ yes
-| '12     | twereen| 14     | twelve \ fourteen| no \ yes
+| z value | z name | x value | x counterpart | checklist?
+|---------|--------|--------|----------------|---
+| 'X      | dek    | 10     | n/a (ten)      | n/a (yes)
+| 'E      | el     | 11     | n/a (eleven)   | n/a (yes)
+| '10     | den    | 12     | ten (twelve)   | yes (yes)
+| '11     | solreen| 13     | eleven (thirteen)| yes (yes)
+| '12     | twereen| 14     | twelve (fourteen)| no (yes)
+| '13     | thireen| 15     | thirteen | yes
+| '14     | foreen | 16     | fourteen | yes
+| '15     | fifreen| 17     | fifteen  | yes
+
