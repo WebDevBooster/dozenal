@@ -334,9 +334,10 @@ When you reframe the question like that, there's only one possible option left a
 
 The apostrophe is **dead-simple** to use, easily accessible on any keyboard, requires a minimal amount of hand movement in handwriting, can be immediately implemented by anyone and makes a number clearly distinguishable as "something special" when you stick an apostrophe immediately in front of a number like so: `'42`.
 
-If you need to use quotation marks, leave a space between the first quotation mark and the apostrophe like so: `" '42"`. Again, this is not ideal. Ideal would be to add nothing at all. But we don't have that option. 
+If you need to use quotation marks, leave a space between the first quotation mark and the apostrophe like so:  
+`" '42"`. 
 
-No matter what we choose to denote the dozenal base, we only have bad options. A good option would be to NOT add anything. 
+Again, this is not ideal. Ideal would be to add nothing at all. But we don't have that option. No matter what we choose to denote the dozenal base, we only have bad options. A good option would be to NOT add anything. 
 
 So, sticking an apostrophe immediately in front of a number is *the least bad* of all the bad options. And by far the easiest option to implement (which will help with adoption). 
 
