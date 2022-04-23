@@ -75,9 +75,9 @@ In some languages "trez" stands for 13: https://en.wiktionary.org/wiki/trez and 
 
 --
 
-* '20 => twez
-* '30 => threz-> trez (this isn't Spanish after all)
-* '40 => fora
+* '20 => twez -> tweda
+* '30 => threz-> trez (this isn't Spanish after all) -> treda
+* '40 => fora (the "d" in forda disappears when speaking quickly)
 * '50 => fifda 
 * '60 => sixda 
 * '70 => sevda 
