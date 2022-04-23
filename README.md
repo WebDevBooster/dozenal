@@ -332,19 +332,28 @@ We need to add something that's absolutely **dead-simple** and **mega-easy** to 
 
 When you reframe the question like that, there's only one possible option left and that is to use the apostrophe `'`. 
 
-The apostrophe is **dead-simple** to use, easily accessible on any keyboard, requires a minimal amount of hand movement in handwriting, can be immediately implemented by anyone and makes a number clearly distinguishable as "something special" when you stick an apostrophe immediately in front of a number like so: `'42`.
+The apostrophe is **dead-simple** to use, easily accessible on any keyboard, requires a minimal amount of hand movement in handwriting, can be immediately implemented by anyone and makes a number clearly distinguishable as "something special" when you stick an apostrophe immediately in front of a number like so:  
+`'36`
 
 If you need to use quotation marks, leave a space between the first quotation mark and the apostrophe like so:  
-`" '42"`. 
+`" '36"` 
 
 Again, this is not ideal. Ideal would be to add nothing at all. But we don't have that option. No matter what we choose to denote the dozenal base, we only have bad options. A good option would be to NOT add anything. 
 
 So, sticking an apostrophe immediately in front of a number is *the least bad* of all the bad options. And by far the easiest option to implement (which will help with adoption). 
 
-I know that in advanced mathematics they sometimes use apostrophe (although I have no idea what it means there). But in advanced mathematics, they are already used to adding a bunch of extra notations. So, it won't be a problem for them to add a z (for do*z*enal) like so: <sup>z</sup>42
+I know that in advanced mathematics they sometimes use apostrophe (although I have no idea what it means there). But in advanced mathematics, they are already used to adding a bunch of extra notations. So, it won't be a problem for them to add a supperscript z (for do*z*enal) like so: <sup>z</sup>36
 
 For regular use though, that supperscript z would be too much hassle and would look far LESS elegant than an apostrophe. 
 
 Since dek and el are unique to the dozenal system, numbers that start with either one of them wouldn't need an apostrophe in front. However, for consistency reasons it might be a good idea add the apostrophe in those cases as well. 
+
+And of course, IF we have the luxury where the context makes it absolutely clear that the number in question is in dozenal, THEN we can drop the base notation altogether.
+
+In Star City, where the dozenal system will be the default, numbers without base notation will be in dozenal and to denote *decimal* numbers we could use a supperscript x like so:  
+<sup>x</sup>42
+
+In practice, we'll probably have to add the decimal representation in parentheses after each dozenal number like so:  
+36 (<sup>x</sup>42)
 
 
