@@ -373,11 +373,11 @@ In practice, we'll probably have to add the decimal representation in parenthese
 
 
 <a name="note1"></a> 
-[1]: The checklist couldn't be used for dek and el because there's no decimal counterpart. But if we assumed the guidelines as the checklist, then it would pass. And if we use *ten* and *eleven* as counterpart names, the dozenal names do pass the checklist. 
+[1]: The checklist couldn't be used for *dek* and *el* because there's no decimal counterpart. But if we assumed the guidelines as the checklist, then it would pass. And if we use *ten* and *eleven* as counterpart names, the dozenal names do pass the checklist. 
 
 <a name="note2"></a> 
-[2]: Footnote number two.
+[2]: The *sol* bit in *solreen* stands for "solitary".
 
 <a name="note3"></a> 
-[3]: Footnote number 3.
+[3]: When using *eleven* as the counterpart to *solreen*, the checklist passes for all except word length. This is a soft fail. When using *twelve* as the counterpart to *twereen* for the checklist, we have a hard fail because *twelve* is just one syllable in pronunciation and *twereen* is two syllables. However, since we already have 2 short and snappy words in the form of *dek* and *el*, it feels like the right decision to accept this checklist fail for *solreen* and *twereen* in favor of regularity for the whole *-reen* group.
 
