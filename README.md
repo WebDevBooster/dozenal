@@ -550,4 +550,9 @@ So, even the Windows calculator tells you indirectly:
 
 And we also need to be more sensible and recognize that if we were to give people dedicated names for numbers '10<sup>'13</sup> and greater, we'd be unnecessarily wasting their precious time. And that's the LAST thing we want to do in Star City. 
 
+If you ever have to deal with a number like '10<sup>'13</sup> in your lifetime, you can just say *dek to the power of thireen* or *one granden tremzen* and you'll be fine.
+
+*One tremzen tremzen* will get you to '10<sup>'20</sup> and *one tremzen tremzen tremzen* will get you properly dizzy, which is perfect for conveying the immense scale of '10<sup>'30</sup>. 
+
+NO dedicated names for those monster numbers are needed! 
 
