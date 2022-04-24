@@ -479,7 +479,7 @@ Notice how *magzen*, *brilzen* and *tremzen* all start with the same letter as t
 
 Besides having "grand" associations, *grand* is used for a thousand of some unit of currency in common language. So, *granden* (short for grand dozen) is a *grand* word for the dozenal counterpart to *thousand*. Very "sticky" in the brain. Gives a "grand" boost to adoption. 
 
-Dozen is actually pronounced `/ˈdʌzn/`. So, the "zn" part of *grezn* mimics perfectly the last part in the pronunciation of dozen while the first part hints that *grezn* is a "great dozen". 
+Dozen is often pronounced `/ˈdʌzn/` (without the "e" audible at the end). So, the "zn" part of *grezn* mimics perfectly the last part in the pronunciation of dozen while the first part hints that *grezn* is a "great dozen". 
 
 It's easy to see that **grezn, granden, magzen, brilzen and tremzen** is WAY better than *hundred, thousand, million, billion and trillion*. And about two dozen times better than the "lame ducks" proposed by the dozenal societies. 
 
