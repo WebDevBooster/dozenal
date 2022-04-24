@@ -357,6 +357,7 @@ In practice, we'll probably have to add the decimal representation in parenthese
 36 (<sup>x</sup>42)
 
 
+### Pronunciation
 
 | z value | z name | x counterpart | x value | checklist?
 |---------|--------|---------------|---------|---
@@ -369,7 +370,11 @@ In practice, we'll probably have to add the decimal representation in parenthese
 | '14 | foreen  | fourteen | 16    | yes
 | '15 | fifreen | fifteen  | 17    | yes
 
-[^1]: Footnote number one.
+
+
+[^1]: Checklist for dek and el.
+
+The checklist couldn't be used fully for dek and el because there's no decimal counterpart. But if we assumed the guidelines as the checklist, then it would pass. 
 
 [^2]: Footnote number two.
 
