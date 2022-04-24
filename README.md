@@ -359,11 +359,11 @@ In practice, we'll probably have to add the decimal representation in parenthese
 
 ### Pronunciation
 
-Like with every new system, some dozenal names (column *z name* below) are gonna feel weird at first, but you're gonna get used to it within 20 minutes. And because almost all the names are designed to pass the checklist, they reinforce the **feel** that the dozenal system is superior to decimal. The two names that don't pass the checklist are in favor of regularity.
+Like with every new system, some dozenal names (column *z name* below) are gonna feel weird at first, but you're gonna get used to it within 20 minutes. 
 
-If you have better suggestions, click "issues" (the top of this page) and then "new issue" button to post your comments. (you'll need a GitHub account)
+Because almost all the names are designed to pass the [checklist](#dozenal-elements-checklist), they boost the **feel** that the dozenal system is superior to decimal. The two names that don't pass the checklist are a compromise in favor of regularity. If you have better suggestions, click "issues" (the top of this page) and then "new issue" button to post your comments. (you'll need a GitHub account)
 
-| z value | z name | x counterpart | x value | checklist?
+| z value | z name | x counterpart | x value | [checklist](#dozenal-elements-checklist)
 |---------|--------|---------------|---------|---
 | 'X  | dek     | n/a (ten)    | 10    | yes<sup>[[1]](#note1)</sup> (yes)
 | 'E  | el      | n/a (eleven) | 11    | yes<sup>[[1]](#note1)</sup> (yes)
