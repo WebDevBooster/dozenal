@@ -363,6 +363,8 @@ Like with every new system, some dozenal names (column *z name* below) are gonna
 
 Because almost all the names are designed to pass the [checklist](#dozenal-elements-checklist), they boost the **feel** that the dozenal system is superior to decimal. The two names that don't pass the checklist are a compromise in favor of regularity. If you have better suggestions, click "issues" (at the top of this page) and the "new issue" button to post your comments. (you'll need a GitHub account)
 
+#### From 'X to '1E
+
 | z value | z name | x counterpart | x value | [checklist](#dozenal-elements-checklist)
 |---------|--------|---------------|---------|---
 | 'X  | dek     | n/a (ten)    | 10    | yes<sup>[[1]](#note1)</sup> (yes)
@@ -392,4 +394,55 @@ Because almost all the names are designed to pass the [checklist](#dozenal-eleme
 
 <a name="note4"></a> 
 [4]: There's no decimal counterpart, but if we assumed the guidelines as the checklist, it would pass.
+
+#### From '20 to '3E
+
+| z value | z name | x counterpart | x value | [checklist](#dozenal-elements-checklist)
+|---------|--------|---------------|---------|---
+| '20 | tweda     | twenty | 24    | yes
+| '21 | tweda-one | twenty-one | 25 | yes
+| '22 | tweda-two | twenty-two | 26    | yes
+| '23 | tweda-three | twenty-three | 27    | yes
+| '24 | tweda-four  | twenty-four | 28    | yes
+| '25 | tweda-five | twenty-five  | 29    | yes
+| '26 | tweda-six | twenty-six  | 30    | yes
+| '27 | tweda-seven | twenty-seven  | 31    | yes
+| '28 | tweda-eight | twenty-eight  | 32    | yes
+| '29 | tweda-nine | twenty-nine  | 33    | yes
+| '2X | tweda-dek | n/a | 34 | yes<sup>[[4]](#note4)</sup>
+| '2E | tweda-el | n/a  | 35 | yes<sup>[[4]](#note4)</sup>
+| '30 | treda     | thirty | 36    | yes
+| '31 | treda-one | thirty-one | 37 | yes
+| '32 | treda-two | thirty-two | 38    | yes
+| '33 | treda-three | thirty-three | 39    | yes
+| '34 | treda-four  | thirty-four | 40    | yes
+| '35 | treda-five | thirty-five  | 41    | yes
+| '36 | treda-six | thirty-six  | 42    | yes
+| '37 | treda-seven | thirty-seven  | 43    | yes
+| '38 | treda-eight | thirty-eight  | 44    | yes
+| '39 | treda-nine | thirty-nine  | 45    | yes
+| '3X | treda-dek | n/a | 46 | yes<sup>[[4]](#note4)</sup>
+| '3E | treda-el | n/a  | 47 | yes<sup>[[4]](#note4)</sup>
+
+
+#### From '20 to 'E0
+
+| z value | z name | x counterpart | x value | [checklist](#dozenal-elements-checklist)
+|---------|--------|---------------|---------|---
+| '20 | tweda     | twenty | 24    | yes
+| '30 | treda     | thirty | 36    | yes
+| '40 | fora<sup>[[5]](#note5)</sup>| forty | 48    | yes
+| '50 | fifda     | fifty | 60    | yes
+| '60 | sixda     | sixty | 72    | yes
+| '70 | sevda     | seventy | 84    | yes
+| '80 | eida     | eighty | 96    | yes
+| '90 | nineda     | ninety | 108    | yes
+| 'X0 | dekda    | n/a | 120 | yes<sup>[[4]](#note4)</sup>
+| 'E0 | elda     | n/a | 132 | yes<sup>[[4]](#note4)</sup>
+
+
+<a name="note5"></a> 
+[5]: Just like the "t" that disappears in a quick pronunciation of the word *twenty* in American accent, the "d" in *forda* disappears when speaking quickly too. So, we might as well get rid of it from the get-go. 
+
+
 
