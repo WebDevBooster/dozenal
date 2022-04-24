@@ -374,7 +374,7 @@ Lucky for us, since the apostrophe already makes clear (before the eye even star
 
 ### Hardware and software calculators
 
-Of course, hardware and software calculators don't need to deal with any of that apostrophe nonsense. Calculators just need to have a *doz/dec* switch to switch the mode to the desired base. And they also need a *doz/dec* button to quickly convert a number from the currently active base into the other. 
+Of course, hardware and software calculators don't need to deal with any of that apostrophe nonsense. Calculators just need to have a *doz/dec* switch to switch the mode to the desired base. And they also need a *doz/dec* button to quickly convert a number from the currently active base into the other and back. 
 
 The leading apostrophe will just be the "necessary evil" that we'll have to use when publishing texts online or in print in situations where people generally expect numbers to be decimal. 
 
