@@ -475,6 +475,26 @@ Because almost all the names are designed to pass the [checklist](#dozenal-eleme
 <a name="tremzen"></a> 
 *tremzen* = tremendous dozen
 
+Notice how *magzen*, *brilzen* and *tremzen* all start with the same letter as the corresponding *million*, *billion*, *trillion* and also have the same *-zen* suffix just like the counterparts have the same *-llion* suffix. That's on purpose. To improve adoption. And to pass the checklist. 
+
+Besides having "grand" associations, *grand* is used for a thousand of some unit of currency in common language. So, *granden* (short for grand dozen) is a *grand* word for the dozenal counterpart to *thousand*. Very "sticky" in the brain. Gives a "grand" boost to adoption. 
+
+Dozen is actually pronounced `/ˈdʌzn/`. So, the "zn" part of *grezn* mimics perfectly the last part in the pronunciation of dozen while the first part hints that *grezn* is a "great dozen". 
+
+It's easy to see that **grezn, granden, magzen, brilzen and tremzen** is WAY better than *hundred, thousand, million, billion and trillion*. And about two dozen times better than the "lame ducks" proposed by the dozenal societies. 
+
+The words **grezn, granden, magzen, brilzen and tremzen** have all strong, positive emotion built-in! 
+
+Knowing that those words are shorthand for... 
+
+* great dozen
+* grand dozen
+* magnificent dozen
+* brilliant dozen
+* tremendous dozen
+
+## will make every dozenal user PROUD to be a user of this superior system!
+
 
 #### Big numbers
 
