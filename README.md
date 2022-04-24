@@ -390,5 +390,6 @@ Because almost all the names are designed to pass the [checklist](#dozenal-eleme
 <a name="note3"></a> 
 [3]: When using *eleven* as the counterpart to *solreen*, the checklist passes for all except word length. This is a soft fail. When using *twelve* as the counterpart to *twereen* for the checklist, we have a hard fail because *twelve* is just one syllable in pronunciation and *twereen* is two syllables. However, since we already have 2 short and snappy words in the form of *dek* and *el*, it feels like the right decision to accept this checklist fail for *solreen* and *twereen* in favor of regularity for the whole *-reen* group.
 
+<a name="note4"></a> 
 [4]: There's no decimal counterpart, but if we assumed the guidelines as the checklist, it would pass.
 
