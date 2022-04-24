@@ -502,5 +502,20 @@ But now, after entering them into this table, I realized that this is probably n
 | '10<sup>'29</sup> | dekizen | decillion | big | ?
 | '10<sup>'30</sup> | elizen | n/a | big | ?
 
+Do we even NEED dedicated names for those large numbers in the table above?
 
+I postulate that **nobody ever needs the names for those large numbers in real life** and nobody will ever miss those names if you just delete them from the dictionary. 
+
+Think about... If you ever hear a number like "eighty-nine septillion stars" in a documentary or something, nobody has any idea what that number even means. So, what always ends up happening is... they show the entire number on the screen, so you can see how many zeros are in there. 
+
+But that large number is only ever shown for 2 or 3 seconds or so. So, you couldn't possibly count the total number of zeros in that time (and nobody would do that anyway). 
+
+A much better thing to do would be to say a number followed by "to the power of __". Or if you show 89 x 10<sup>24</sup> and say *"eighty-nine times 10 to the power of twenty-four"* or *"eighty-nine followed by twenty-four zeros"*. That would be a hundred times better than saying "eighty-nine septillion". 
+
+So, I propose:  
+The upper bound of what humans need in real life (in terms of number names) is a trillion. And in dozenal that would be tremzen. 
+
+Nobody is ever gonna need names for bigger numbers. If someone tells you a number that's more than 3 orders of magnitude larger than a trillion, ***you're always gonna have to look up how many zeros are associated with that number name, which makes the NAME of the number completely pointless!*** 
+
+There's zero practical need for those super-large numbers to have dedicated names. 
 
