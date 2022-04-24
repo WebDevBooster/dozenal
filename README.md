@@ -357,6 +357,33 @@ In practice, we'll probably have to add the decimal representation in parenthese
 36 (<sup>x</sup>42)
 
 
+### Fraction notation
+
+Using apostrophe for denoting the dozenal base has another ***enormous*** advantage: 
+
+#### We can keep using the exact same dot for denoting a fraction boundary as in decimal!
+
+The dozenal societies propose using a semicolon (`;`) instead of a decimal point (`.`) for denoting a fraction boundary. That would NEVER fly under my leadership. Using a semicolon instead of a decimal point feels like taking a dozen steps BACK! 
+
+That would never pass the checklist and we'd never use something like that. 
+
+To be fair, a decimal point is *impossible to beat*. It's the simplest possible glyph and the most elegant solution for denoting a fraction boundary. Just one single dot (or a tap with a pen). 
+
+Lucky for us, since the apostrophe already makes clear (before the eye even starts reading the number) that a given number is in dozenal, we can just keeping using the point for fractions. Perfect! 
+
+
+### Hardware and software calculators
+
+Of course, hardware and software calculators don't need to deal with any of that apostrophe nonsense. Calculators just need to have a *doz/dec* switch to switch the mode to the desired base. And they also need a *doz/dec* button to quickly convert a number from the currently active base into the other. 
+
+The leading apostrophe will just be the "necessary evil" that we'll have to use when publishing texts online or in print in situations where people generally expect numbers to be decimal. 
+
+And in the context of Star City where everyone will know that our numbers are dozenal by default, we won't need the apostrophe because we'll publish the decimal equivalent in parentheses like so:  
+36 (<sup>x</sup>42)
+
+This is gonna be sort of like in a bilingual city where all road signs are in 2 languages. 
+
+
 ### Pronunciation
 
 Like with every new system, some dozenal names (column *z name* below) are gonna feel weird at first, but you're gonna get used to it within 20 minutes. 
