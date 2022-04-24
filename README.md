@@ -359,14 +359,29 @@ In practice, we'll probably have to add the decimal representation in parenthese
 
 | z value | z name | x value | x counterpart | checklist?
 |---------|--------|--------|----------------|---
-| 'X      | dek    | 10     | n/a (ten)    | n/a (yes)[^1]
-| 'E      | el     | 11     | n/a (eleven)   | n/a (yes)
-| '10     | den    | 12     | ten (twelve)   | yes (yes)
-| '11     | solreen| 13     | eleven (thirteen)| yes (yes)
-| '12     | twereen| 14     | twelve (fourteen)| no (yes)
-| '13     | thireen| 15     | thirteen | yes
-| '14     | foreen | 16     | fourteen | yes
-| '15     | fifreen| 17     | fifteen  | yes
+| 'X  | dek     | 10    | n/a (ten)    | n/a (yes)[^1]
+| 'E  | el      | 11    | n/a (eleven) | n/a (yes)[^1]
+| '10 | den     | 12    | ten (twelve) | yes (yes)
+| '11 | solreen[^2]| 13 | eleven (thirteen)| yes (yes)
+| '12 | twereen | 14    | twelve (fourteen)| no[^3] (yes)
+| '13 | thireen | 15    | thirteen | yes
+| '14 | foreen  | 16    | fourteen | yes
+| '15 | fifreen | 17    | fifteen  | yes
 
+| z value | z name | x counterpart | x value | checklist?
+|---------|--------|---------------|---------|---
+| 'X  | dek     | n/a (ten)    | 10    | n/a (yes)[^1]
+| 'E  | el      | n/a (eleven) | 11    | n/a (yes)[^1]
+| '10 | den     | ten (twelve) | 12    | yes (yes)
+| '11 | solreen[^2]| eleven (thirteen)| 13 | yes (yes)
+| '12 | twereen | twelve (fourteen)| 14    | no[^3] (yes)
+| '13 | thireen | thirteen | 15    | yes
+| '14 | foreen  | fourteen | 16    | yes
+| '15 | fifreen | fifteen  | 17    | yes
 
 [^1]: Footnote number one.
+
+[^2]: Footnote number two.
+
+[^3]: Footnote number 3.
+
