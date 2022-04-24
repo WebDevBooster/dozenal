@@ -359,6 +359,10 @@ In practice, we'll probably have to add the decimal representation in parenthese
 
 ### Pronunciation
 
+Like with every new system, some dozenal names (column *z name* below) are gonna feel weird at first, but you're gonna get used to it within 20 minutes.
+
+If you have better suggestions, click "issues" (the top of this page) and then "new issue" button to post your comments. (you'll need a GitHub account)
+
 | z value | z name | x counterpart | x value | checklist?
 |---------|--------|---------------|---------|---
 | 'X  | dek     | n/a (ten)    | 10    | yes<sup>[[1]](#note1)</sup> (yes)
