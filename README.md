@@ -383,7 +383,7 @@ And in the context of Star City where everyone will know that our numbers are do
 
 This is gonna be sort of like in a bilingual city where all road signs are in 2 languages. 
 
-Someone should code up a quick macro shortcut. 
+Someone should code up a quick macro shortcut for this. 
 
 With this macro installed, you'd just type in any dozenal number in any program, browser window or chat box, then press two keys on your keyboard and the macro would instantly calculate the decimal value of that number and insert it for you. So, typing `36` followed by a shortcut would automatically get you:  
 36 (<sup>x</sup>42)
