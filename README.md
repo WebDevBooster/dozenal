@@ -442,7 +442,65 @@ Because almost all the names are designed to pass the [checklist](#dozenal-eleme
 
 
 <a name="note5"></a> 
-[5]: Just like the "t" that disappears in a quick pronunciation of the word *twenty* in American accent, the "d" in *forda* disappears when speaking quickly too. So, we might as well get rid of it from the get-go. 
+[5]: Just like the "t" that disappears in a quick pronunciation of the word *twenty* in American accent, the "d" in *forda* disappears when speaking quickly too. So, we might as well get rid of it from the get-go. Easier to pronounce. 
+
+
+#### From '100 to '1,000,000,000,000
+
+| z value | z name | x counterpart | x value | [checklist](#dozenal-elements-checklist)
+|---------|--------|---------------|---------|---
+| '100 | [grezn](#grezn) | hundred | 144    | yes
+| '1,000 | [granden](#granden)| thousand | 1,728    | yes
+| '10,000 | den granden | ten thousand | 20,736    | yes
+| '100,000 | grezn granden| hundred thousand| 248,832| yes
+| '1,000,000 | [magzen](#magzen)| million | 2,985,984 | yes
+| '10,000,000 | den magzen | ten million | 35,831,808| yes
+| '100,000,000 | grezn magzen | hundred million | 429,981,696| yes
+| '1,000,000,000 | [brilzen](#brilzen)| billion | 5,159,780,352 | yes
+| '10<sup>'10</sup> | [tremzen](#tremzen)| trillion | 8.9 x 10<sup>12</sup> | yes
+
+
+<a name="grezn"></a> 
+*grezn* = great dozen
+
+<a name="granden"></a> 
+*granden* = grand dozen
+
+<a name="magzen"></a> 
+*magzen* = magnificent dozen
+
+<a name="brilzen"></a> 
+*brilzen* = brilliant dozen
+
+<a name="tremzen"></a> 
+*tremzen* = tremendous dozen
+
+
+#### Big numbers
+
+Originally, I derived the number names below as follows ([see my scratchpad](scratchpad.md)).
+
+Quadrillion => quadzen  
+Quintillion => quinzen  
+Sextillion => sextizen  
+Septillion => septizen  
+Octillion => octizen  
+Nonillion => nonizen  
+Decillion => dekizen  
+________ => elizen
+
+But now, after entering them into this table, I realized that this is probably not gonna work or will it?
+
+| z value | z name | x counterpart | x value | [checklist](#dozenal-elements-checklist)
+|---------|--------|---------------|---------|---
+| '10<sup>'13</sup> | quadzen | quadrillion | big | ?
+| '10<sup>'16</sup> | quinzen | quintillion | big | ?
+| '10<sup>'19</sup> | sextizen | sextillion | big | ?
+| '10<sup>'20</sup> | septizen | septillion | big | ?
+| '10<sup>'23</sup> | octizen | octillion | big | ?
+| '10<sup>'26</sup> | nonizen | nonillion | big | ?
+| '10<sup>'29</sup> | dekizen | decillion | big | ?
+| '10<sup>'30</sup> | elizen | n/a | big | ?
 
 
 
