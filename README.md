@@ -373,11 +373,11 @@ In practice, we'll probably have to add the decimal representation in parenthese
 
 
 <a name="note1"></a> 
-The checklist couldn't be used for dek and el because there's no decimal counterpart. But if we assumed the guidelines as the checklist, then it would pass. And if we use *ten* and *eleven* as counterpart names, the dozenal names do pass the checklist. 
+[1]: The checklist couldn't be used for dek and el because there's no decimal counterpart. But if we assumed the guidelines as the checklist, then it would pass. And if we use *ten* and *eleven* as counterpart names, the dozenal names do pass the checklist. 
 
 <a name="note2"></a> 
-Footnote number two.
+[2]: Footnote number two.
 
 <a name="note3"></a> 
-Footnote number 3.
+[3]: Footnote number 3.
 
