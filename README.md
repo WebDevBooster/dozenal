@@ -590,7 +590,7 @@ And we also need to be more sensible and recognize that if we were to give peopl
 
 If you ever have to deal with a number like '10<sup>'13</sup> in your lifetime, you can just say *dek to the power of thireen* or *one granden tremzen* and you'll be fine.
 
-*One tremzen tremzen* will get you to '10<sup>'20</sup> and *one tremzen tremzen tremzen* will get you properly dizzy, which is perfect for conveying the immense scale of '10<sup>'30</sup>. 
+*One tremzen tremzen* will get you to '10<sup>'20</sup> and *one tremzen tremzen tremzen* will get you properly dizzy, which is perfect for conveying the immense scale of '10<sup>'30</sup>. To give you an idea: 10<sup>27</sup> meters — in decimal — is the diameter of our observable universe. And '10<sup>'30</sup> (in dozenal) is 7 x 10<sup>38</sup> in decimal. 
 
-NO dedicated names for those monster numbers are needed! 
+So, we won't use dedicated names for those monster numbers. 
 
