@@ -539,3 +539,14 @@ Nobody is ever gonna need names for bigger numbers. If someone tells you a numbe
 
 There's zero practical need for those super-large numbers to have dedicated names. 
 
+If I enter the number *1,000,000,000,000* (trillion) into the standard calculator on Windows and multiply it by 10,000, I get the following answer: 
+
+### 1.e+16
+
+So, even the Windows calculator tells you indirectly: 
+
+### Don't be ridiculous! When dealing with such large numbers you need to be more sensible. 
+
+And we also need to be more sensible and recognize that if we were to give people dedicated names for numbers '10<sup>'13</sup> and greater, we'd be unnecessarily waisting their precious time. And that's the LAST thing we want to do in Star City. 
+
+
