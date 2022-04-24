@@ -361,7 +361,7 @@ In practice, we'll probably have to add the decimal representation in parenthese
 
 Like with every new system, some dozenal names (column *z name* below) are gonna feel weird at first, but you're gonna get used to it within 20 minutes. 
 
-Because almost all the names are designed to pass the [checklist](#dozenal-elements-checklist), they boost the **feel** that the dozenal system is superior to decimal. The two names that don't pass the checklist are a compromise in favor of regularity. If you have better suggestions, click "issues" (the top of this page) and then "new issue" button to post your comments. (you'll need a GitHub account)
+Because almost all the names are designed to pass the [checklist](#dozenal-elements-checklist), they boost the **feel** that the dozenal system is superior to decimal. The two names that don't pass the checklist are a compromise in favor of regularity. If you have better suggestions, click "issues" (at the top of this page) and the "new issue" button to post your comments. (you'll need a GitHub account)
 
 | z value | z name | x counterpart | x value | [checklist](#dozenal-elements-checklist)
 |---------|--------|---------------|---------|---
@@ -373,7 +373,12 @@ Because almost all the names are designed to pass the [checklist](#dozenal-eleme
 | '13 | thireen | thirteen | 15    | yes
 | '14 | foreen  | fourteen | 16    | yes
 | '15 | fifreen | fifteen  | 17    | yes
-
+| '16 | sixreen | sixteen  | 18    | yes
+| '17 | sevreen | seventeen  | 19    | yes
+| '18 | eireen | eighteen  | 20    | yes
+| '19 | nireen | nineteen  | 21    | yes
+| '1X | dekreen | n/a  | 22  | yes<sup>[[4]](#note4)</sup>
+| '1E | elreen | n/a  | 23  | yes<sup>[[4]](#note4)</sup>
 
 
 <a name="note1"></a> 
@@ -384,4 +389,6 @@ Because almost all the names are designed to pass the [checklist](#dozenal-eleme
 
 <a name="note3"></a> 
 [3]: When using *eleven* as the counterpart to *solreen*, the checklist passes for all except word length. This is a soft fail. When using *twelve* as the counterpart to *twereen* for the checklist, we have a hard fail because *twelve* is just one syllable in pronunciation and *twereen* is two syllables. However, since we already have 2 short and snappy words in the form of *dek* and *el*, it feels like the right decision to accept this checklist fail for *solreen* and *twereen* in favor of regularity for the whole *-reen* group.
+
+[4]: There's no decimal counterpart, but if we assumed the guidelines as the checklist, it would pass.
 
