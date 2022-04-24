@@ -361,22 +361,23 @@ In practice, we'll probably have to add the decimal representation in parenthese
 
 | z value | z name | x counterpart | x value | checklist?
 |---------|--------|---------------|---------|---
-| 'X  | dek     | n/a (ten)    | 10    | yes[^1] (yes)
-| 'E  | el      | n/a (eleven) | 11    | yes[^1] (yes)
+| 'X  | dek     | n/a (ten)    | 10    | yes<sup>[[1]](#note1)</sup> (yes)
+| 'E  | el      | n/a (eleven) | 11    | yes<sup>[[1]](#note1)</sup> (yes)
 | '10 | den     | ten (twelve) | 12    | yes (yes)
-| '11 | solreen[^2]| eleven (thirteen)| 13 | no[^3] (yes)
-| '12 | twereen | twelve (fourteen)| 14    | no[^3] (yes)
+| '11 | solreen<sup>[[2]](#note2)</sup>| eleven (thirteen)| 13 | no<sup>[[3]](#note3)</sup> (yes)
+| '12 | twereen | twelve (fourteen)| 14    | no<sup>[[3]](#note3)</sup> (yes)
 | '13 | thireen | thirteen | 15    | yes
 | '14 | foreen  | fourteen | 16    | yes
 | '15 | fifreen | fifteen  | 17    | yes
 
 
 
-[^1]: Checklist for dek and el.
+<a name="note1"></a> 
+The checklist couldn't be used for dek and el because there's no decimal counterpart. But if we assumed the guidelines as the checklist, then it would pass. And if we use *ten* and *eleven* as counterpart names, the dozenal names do pass the checklist. 
 
-The checklist couldn't be used fully for dek and el because there's no decimal counterpart. But if we assumed the guidelines as the checklist, then it would pass. 
+<a name="note2"></a> 
+Footnote number two.
 
-[^2]: Footnote number two.
-
-[^3]: Footnote number 3.
+<a name="note3"></a> 
+Footnote number 3.
 
