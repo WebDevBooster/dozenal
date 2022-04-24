@@ -316,7 +316,7 @@ OK, we need to add something ether immediately *before* a number or on top of th
 
 Adding a diacritic from the [Swedish letter &#197; &#229;](https://en.wikipedia.org/wiki/%C3%85) was one of many potential options I had explored: 
 
-<img src="./assets/dozenal-numbers-v2.4.1.png" alt="test" width="237"/>
+<img src="./assets/dozenal-numbers-v2.4.1.png" alt="test" width="230"/>
 
 But ultimately, this wouldn't be a great option. 
 
