@@ -594,3 +594,24 @@ If you ever have to deal with a number like '10<sup>'13</sup> in your lifetime, 
 
 So, we won't use dedicated names for those monster numbers. 
 
+### Percentage etc.
+
+*Hold on! But what about things like percentage and stuff? After all, x percent of something means x parts per hundred.*
+
+Good catch! 
+
+There's a LOT more work to do to get the dozenal system fully fleshed out. What I've done here is just a start. 
+
+Now, go out and start adding the missing bits and pieces. Click "issues" (at the top of this page) and the "new issue" button to post your comments. 
+
+Be mindful though. Removing things can be even more important than adding. For example, removing dedicated names from the monster numbers or removing the "d" in *forda* (as I've done here) makes the whole system better. 
+
+By the way, can you hear how the "t" sound in *percentage* disappears when you say it quickly in American accent? More often than not you say `/pɚˈsɛnɪd͡ʒ/` and not `/pɚˈsɛntɪd͡ʒ/` in American English. 
+
+In [Starlan](https://github.com/WebDevBooster/starlan) (which will be the primary language in Star City) we will ruthlessly cut out everything that isn't needed or used. 
+
+So, if you find something worth removing, *do* open an issue with your suggestion. 
+
+As far as the counterpart to the word *percent* goes: *cent* in percent in another word for *hundred*. And since we have *grezn* as a counterpart to hundred, we could use *pergren* where *gren* is a shortened version of grezn. And the counterpart to *percentage* would then be *pergrenage*. 
+
+
