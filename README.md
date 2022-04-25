@@ -394,6 +394,12 @@ The macro could also do another trick. You'd type in a number in decimal — som
 
 MAGIC! :-)
 
+By the way, the rumor that our use of the supperscript x (to denote the decimal base) is a subliminal message in an attempt to *x-out* the decimal system out of existence... that rumor is NOT at all true. I think that long-term the decimal system will disappear by itself. Without us even trying to "x it out". 
+
+But the rumor that the apostrophe denoting the dozenal base looks eerily similar to number 1 is totally true! The dozenal system will be the primary system for human use in Star City. 
+
+And the rumor that one of Star City's main aims is to become the undisputed number 1 world leader in science and technology, is not a rumor. It's a fact! And the chances of that happening are above average. I believe that the vast majority of the world's brightest minds in science and technology will absolutely LOVE Star City and support our efforts. 
+
 
 ### Pronunciation
 
