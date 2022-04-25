@@ -13,9 +13,24 @@
    
   ### [2 Dozenal Societies](#dozenal-societies)
   ### [3 The Guidelines](#the-guidelines)
+  * [3.1 Summary](#summary)
+  * [3.2 Dozenal checklist](#dozenal-elements-checklist)
+  ### [4 The How](#the-how)
+  * [4.1 Numerical representation of dek and el](#numerical-representation-of-dek-and-el)
+  * [4.2 Base notation](#base-notation)
+  * [4.3 Fraction notation](#fraction-notation)
+  * [4.4 Hardware and software calculators](#hardware-and-software-calculators)
+  * [4.5 Pronunciation](#pronunciation)
+    - [4.5.1 From 'X to '1E](#from-x-to-1e)
+    - [4.5.2 From '20 to '3E](#from-20-to-3e)
+    - [4.5.3 From '20 to 'E0](#from-20-to-e0)
+    - [4.5.4 From '100 to '1,000,000,000,000](#from-100-to-1000000000000)
+    - [4.5.5 Big numbers](#big-numbers)
+  ### [5 Percentage etc.](#percentage-etc)
   
 </details>
 
+--- 
 
 ## The Why
 
