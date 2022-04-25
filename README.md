@@ -648,4 +648,11 @@ So, if you find something worth removing, *do* open an issue with your suggestio
 
 As far as the counterpart to the word *percent* goes: *cent* in percent in another word for *hundred*. And since we have *grezn* as a counterpart to hundred, we could use *pergren* where *gren* is a shortened version of grezn. And the counterpart to *percentage* would then be *pergrenage*. 
 
+What about the percentage sign though? This guy -> `%`.
+
+At present, I don't have an answer to that question. If we can't or shouldn't reuse the percentage sign the same way we've done with the decimal point, then [looking at the percentage sign evolution](https://en.wikipedia.org/wiki/Percent_sign#Evolution) I came up with this idea: 
+
+![pergren sign](./assets/pergren-sign.png)
+
+This is what the *pergren* sign might look like next to a number.
 
