@@ -7,12 +7,12 @@
 <details>
   <summary>Table of Contents (click to expand)</summary>
   
-  ### [The Why](#the-why)
-  1. [Dozenal vs. decimal](#dozenal-is-2x-better-than-decimal)
-  2. [Counting in dozenal](#zero-one-two-three-four-five-six-seven-eight-nine-dek-el)
+  ### [1 The Why](#the-why)
+  * [1.1 Dozenal vs. decimal](#dozenal-is-2x-better-than-decimal)
+  * [1.2 Counting in dozenal](#zero-one-two-three-four-five-six-seven-eight-nine-dek-el)
    
-  ### [Dozenal Societies](#dozenal-societies)
-  ### [The Guidelines](#the-guidelines)
+  ### [2 Dozenal Societies](#dozenal-societies)
+  ### [3 The Guidelines](#the-guidelines)
   
 </details>
 
