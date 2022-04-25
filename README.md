@@ -656,3 +656,9 @@ At present, I don't have an answer to that question. If we can't or shouldn't re
 
 This is what the *pergren* sign might look like next to a number.
 
+Or how about this one: 
+
+![pergren sign v2](./assets/pergren-sign-v2.png)
+
+A simple Z with a vertical strikethrough would be so much easier to write. 
+
