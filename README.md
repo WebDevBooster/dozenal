@@ -37,7 +37,7 @@
 
 ### Dozenal is 2x better than decimal.
 
-Why aren't people using the [**binary**](https://en.wikipedia.org/wiki/Binary_number) system of numerals in day-to-day life? After all, computers can and do calculate EVERYTHING using just ones and zeros. All calculations in maths, engineering, programming, science... ALL of them can be done perfectly well using the binary system. 
+Why aren't people using the [**binary**](https://en.wikipedia.org/wiki/Binary_number) system of numerals in day-to-day life? After all, computers can *and do* calculate EVERYTHING using just ones and zeros. All calculations in maths, engineering, programming, science... ALL of them can be done perfectly well using the binary system. 
 
 So, shouldn't we all just switch to using ones and zeros (just 2 numbers) for counting and calculating everything?
 
