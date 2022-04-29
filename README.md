@@ -671,3 +671,12 @@ Or how about this one:
 
 A simple Z with a vertical strikethrough would be so much easier to write. 
 
+
+### Dozenal is NEVER "duodecimal"!
+
+Simply put: The word "duodecimal" is only for certified idiots to use. So, if you don't have a certificate of idiocy, you can't use it. 
+
+It should be obvious — without any explanations — why using the word "duodecimal" when referring to ***dozenal*** is such an idiotic thing to do. Here's just one reason: The word for the base-20 system is **vigesimal**. Not "doubledecimal". 
+
+Leave the usage of the word "duodecimal" to idiots. Don't ever use that word when referring to the **dozenal** system. The system with base dozen is called **DOZENAL**. The dozenal system doesn't rely on the decimal system in any way, shape or form. So, using the word "decimal" as part of the *dozenal* system's NAME is idiotic to the utmost degree. Or maybe those idiots came up with that abomination of a name in an attempt to hide the fact that decimal is inferior to dozenal?
+
