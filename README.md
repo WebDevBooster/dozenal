@@ -471,18 +471,18 @@ Because almost all the names are designed to pass the [checklist](#dozenal-eleme
 
 | z value | z name | x counterpart | x value | [checklist](#dozenal-elements-checklist)
 |---------|--------|---------------|---------|---
-| '20 | tweda     | twenty | 24    | yes
-| '21 | tweda-one | twenty-one | 25 | yes
-| '22 | tweda-two | twenty-two | 26    | yes
-| '23 | tweda-three | twenty-three | 27    | yes
-| '24 | tweda-four  | twenty-four | 28    | yes
-| '25 | tweda-five | twenty-five  | 29    | yes
-| '26 | tweda-six | twenty-six  | 30    | yes
-| '27 | tweda-seven | twenty-seven  | 31    | yes
-| '28 | tweda-eight | twenty-eight  | 32    | yes
-| '29 | tweda-nine | twenty-nine  | 33    | yes
-| '2X | tweda-dek | n/a | 34 | yes<sup>[[4]](#note4)</sup>
-| '2E | tweda-el | n/a  | 35 | yes<sup>[[4]](#note4)</sup>
+| '20 | <s>tweda</s> twega<sup>[[5.1]](#note5-1)</sup>     | twenty | 24    | yes
+| '21 | twega-one | twenty-one | 25 | yes
+| '22 | twega-two | twenty-two | 26    | yes
+| '23 | twega-three | twenty-three | 27    | yes
+| '24 | twega-four  | twenty-four | 28    | yes
+| '25 | twega-five | twenty-five  | 29    | yes
+| '26 | twega-six | twenty-six  | 30    | yes
+| '27 | twega-seven | twenty-seven  | 31    | yes
+| '28 | twega-eight | twenty-eight  | 32    | yes
+| '29 | twega-nine | twenty-nine  | 33    | yes
+| '2X | twega-dek | n/a | 34 | yes<sup>[[4]](#note4)</sup>
+| '2E | twega-el | n/a  | 35 | yes<sup>[[4]](#note4)</sup>
 | '30 | treda     | thirty | 36    | yes
 | '31 | treda-one | thirty-one | 37 | yes
 | '32 | treda-two | thirty-two | 38    | yes
@@ -496,14 +496,23 @@ Because almost all the names are designed to pass the [checklist](#dozenal-eleme
 | '3X | treda-dek | n/a | 46 | yes<sup>[[4]](#note4)</sup>
 | '3E | treda-el | n/a  | 47 | yes<sup>[[4]](#note4)</sup>
 
+<a name="note5-1"></a> 
+[5.1]: From the beginning I was worried about the words *tweda* and *treda* beeing too close in pronunciation. One of the checklist points is to avoid the *thirteen vs. thirty* confusion potential. If you ever heard someone say "three zero" or ask "three zero?" (instead of *thirty*) that's because either the speaker is afraid the listeners won't understand properly or the listener is unsure if they understood properly. 
+
+The (potential) problem with *tweda* and *treda* is that the mouth movement required for the pronunciation of the blends "tw" and "tr" is ***nearly*** identical. So, to **increase the distinction** between the two words, I think we must give one of them a different suffix. 
+
+I have considered the "-na" and the "-za" suffix. But "twena" is very close to "twenner" (even though "twenner" is rarely ever used in practice). And the problem with "tweza" would be the "tweza-three" combination. It would be a stumbling block compared to all other combinations. 
+
+So, *twega* seems like the best option that preserves clarity (and ease of pronunciation in all combinations) on the one hand and increases the distinction to *treda* on the other hand. 
+
 
 #### From '20 to 'E0
 
 | z value | z name | x counterpart | x value | [checklist](#dozenal-elements-checklist)
 |---------|--------|---------------|---------|---
-| '20 | tweda     | twenty | 24    | yes
+| '20 | <s>tweda</s> twega<sup>[[5.1]](#note5-1)</sup>     | twenty | 24    | yes
 | '30 | treda     | thirty | 36    | yes
-| '40 | fora<sup>[[5]](#note5)</sup>| forty | 48    | yes
+| '40 | fora<sup>[[5.2]](#note5-2)</sup>| forty | 48    | yes
 | '50 | fifda     | fifty | 60    | yes
 | '60 | sixda     | sixty | 72    | yes
 | '70 | sevda     | seventy | 84    | yes
@@ -513,8 +522,8 @@ Because almost all the names are designed to pass the [checklist](#dozenal-eleme
 | 'E0 | elda     | n/a | 132 | yes<sup>[[4]](#note4)</sup>
 
 
-<a name="note5"></a> 
-[5]: Just like the "t" that disappears in a quick pronunciation of the word *twenty* in American accent, the "d" in *forda* disappears when speaking quickly too. So, we might as well get rid of it from the get-go. Easier to pronounce. 
+<a name="note5-2"></a> 
+[5.2]: Just like the "t" that disappears in a quick pronunciation of the word *twenty* in American accent, the "d" in *forda* disappears when speaking quickly too. So, we might as well get rid of it from the get-go. Easier to pronounce. 
 
 
 #### From '100 to '1,000,000,000,000
