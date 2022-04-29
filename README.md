@@ -27,6 +27,7 @@
     - [4.5.4 From '100 to '1,000,000,000,000](#from-100-to-1000000000000)
     - [4.5.5 Big numbers](#big-numbers)
   ### [5 Percentage etc.](#percentage-etc)
+  ### [6 Dozenal is NEVER "duodecimal"!](#dozenal-is-never-duodecimal)
   
 </details>
 
