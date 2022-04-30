@@ -5,7 +5,7 @@
 ---
 
 <details>
-  <summary>Table of Contents (click to expand)</summary>
+  <summary style="color: #0969da">Table of Contents (click to expand)</summary>
   
   ### [1 The Why](#the-why)
   * [1.1 Dozenal vs. decimal](#dozenal-is-2x-better-than-decimal)
