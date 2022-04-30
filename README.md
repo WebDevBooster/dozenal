@@ -498,13 +498,17 @@ Because almost all the names are designed to pass the [checklist](#dozenal-eleme
 | '3E | treda-el | n/a  | 47 | yes<sup>[[4]](#note4)</sup>
 
 <a name="note5-1"></a> 
-[5.1]: From the beginning I was worried about the words *tweda* and *treda* beeing too close in pronunciation. One of the checklist points is to avoid the *thirteen vs. thirty* confusion potential. If you ever heard someone say "three zero" or ask "three zero?" (instead of *thirty*) that's because either the speaker is afraid the listeners won't understand properly or the listener is unsure if they understood properly. 
+[5.1]: From the beginning I was worried about the words *tweda* and *treda* beeing too close in pronunciation. One of the checklist points is to avoid the *thirteen vs. thirty* kind of confusion potential. If you ever heard someone say "three zero" or ask "three zero?" (instead of *thirty*) that's because either the speaker is afraid the listeners won't understand properly or the listener is unsure if they understood properly. 
 
-The (potential) problem with *tweda* and *treda* is that the mouth movement required for the pronunciation of the blends "tw" and "tr" is ***nearly*** identical. So, to **increase the distinction** between the two words, I think we must give one of them a different suffix. 
+The (potential) problem with *tweda* and *treda* is that the movement of the lips required for the pronunciation of the blends "tw" and "tr" is ***nearly*** identical. And in the same way people sometimes have difficulty distinguishing between the "b" sound and the "d" sound (when talking on the phone etc.), I fear that there might be situations where people might confuse *tweda* and *treda* with one another. 
+
+So, to **increase the distinction** between the two words, I think we must give one of them a different suffix. 
 
 I have considered the "-na" and the "-za" suffix. But "twena" is very close to "twenner" (even though "twenner" is rarely ever used in practice). And the problem with "tweza" would be the "tweza-three" combination. It would be a stumbling block compared to all other combinations. 
 
 So, *twega* seems like the best option that preserves clarity (and ease of pronunciation in all combinations) on the one hand and increases the distinction to *treda* on the other hand. 
+
+The downside is that while *twega* has been engineered to increase the audible distinction to *treda*, it lacks a mnemonic connection to dozen. Unless someone has a better proposal, we might have to live with that. Given that this suffix helps to avoid confusing between frequently used number names, it seems like an acceptable compromise. Plus, *fora* (see below) is also an irregular word. 
 
 
 #### From '20 to 'E0
