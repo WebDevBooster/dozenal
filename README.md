@@ -510,6 +510,17 @@ So, *twega* seems like the best option that preserves clarity (and ease of pronu
 
 The downside is that while *twega* has been engineered to increase the audible distinction to *treda*, it lacks a mnemonic connection to dozen. Unless someone has a better proposal, we might have to live with that. Given that this suffix helps to avoid confusing between frequently used number names, it seems like an acceptable compromise. Plus, *fora* (see below) is also an irregular word. 
 
+UPDATE:  
+I might have just come up with a better solution. 
+
+The only reason why the *-na* suffix couldn't be used for the **'20** group is because "twena" would have been too close to "twenner" (which is an occasionally used word for *twenty pounds*). Other than that, "twena" would have been great on all counts AND the "n" in "twena" would give us a nice mnemonic connection to dozen. 
+
+OK, but nothing stops us from using the *-na* suffix for the **'30** group!
+
+So, we could leave the regular suffix *-da* for the **two dozen** group i.e. use the word *tweda* there. And use the irregular *-na* suffix for the **three dozen** group. The word for the **three dozen** group already IS irregular because "th" has been reduced to "t" (for ease of pronunciation). So, it wouldn't hurt if we make it even more irregular by changing the suffix from *-da* to *-na*. With the *-na* suffix we keep a mnemonic connection to dozen. 
+
+Right. So, *tweda* for the two ***D***ozen group and *trena* for the three doze***N*** group appears to be a great solution to this problem. 
+
 
 #### From '20 to 'E0
 
