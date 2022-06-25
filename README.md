@@ -439,7 +439,7 @@ That would never pass the checklist and we'd never use something like that.
 
 To be fair, a decimal point is *impossible to beat*. It's the simplest possible glyph and the most elegant solution for denoting a fraction boundary. Just one single dot (or a tap with a pen). 
 
-Lucky for us, since the apostrophe already makes clear (before the eye even starts reading the number) that a given number is in dozenal, we can just keeping using the point for fractions. Perfect! 
+Lucky for us, since the apostrophe already makes clear (before the eye even starts reading the number) that a given number is in dozenal, we can just keep using the point for fractions. Perfect! 
 
 
 ### Hardware and software calculators
