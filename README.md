@@ -359,7 +359,7 @@ So, the real question is:
 
 We need to add something that's absolutely **dead-simple** and **mega-easy** to use both in handwriting and on a computer keyboard. Even if you use a standard keyboard and not my superior [Dvorak-Booster keyboard layout](https://github.com/WebDevBooster/Dvorak-Booster-Keyboard-Layout). 
 
-When you reframe the question like that, there's only one possible option left and that is to use the apostrophe `'`. 
+When you reframe the question like that, there's only one possible option left and that is to use the apostrophe or the opening single quote symbol: `'`. 
 
 The apostrophe is **dead-simple** to use, easily accessible on any keyboard, requires a minimal amount of hand movement in handwriting, can be immediately implemented by anyone and makes a number clearly distinguishable as "something special" when you stick an apostrophe immediately in front of a number like so:  
 `'36`
@@ -384,6 +384,47 @@ In Star City, where the dozenal system will be the default, numbers without base
 
 In practice, we'll probably have to add the decimal representation in parentheses after each dozenal number like so:  
 36 (<sup>x</sup>42)
+
+---
+
+UPDATE 25 June 2022:  
+While learning the *Rust programming language* I discovered an interesting thing somewhat related to this... 
+
+*Rust* has 3 kinds of loops: `loop`, `while` and `for`. The `loop` variant can be *named* or labeled to easily refer to it when using nested loops. 
+
+The interesting part is HOW these loops are named in Rust. The name of the loop starts with a single quote i.e. our apostrophe!
+
+Here's an example of using 2 nested loops in Rust: 
+
+```rust
+fn main() {
+    let mut count = 0;
+    'counting_up: loop {
+        println!("count = {}", count);
+        let mut remaining = 10;
+
+        loop {
+            println!("remaining = {}", remaining);
+            if remaining == 9 {
+                break;
+            }
+            if count == 2 {
+                break 'counting_up;
+            }
+            remaining -= 1;
+        }
+
+        count += 1;
+    }
+    println!("End count = {}", count);
+}
+```
+
+Notice that `'counting_up` thingy. That's the label of the outer loop. That label is used the inner loop to break out of the loop. 
+
+But the cool thing is that the super-smart people developing the Rust programming language also came up with the same idea: Prepending a name with a single quotation mark symbol — our apostrophe — as an easy and terse way to denote something special. Yay! 
+
+---
 
 
 ### Fraction notation
