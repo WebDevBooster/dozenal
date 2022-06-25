@@ -438,22 +438,22 @@ Because almost all the names are designed to pass the [checklist](#dozenal-eleme
 
 #### From 'X to '1E
 
-| z value | z name | x counterpart | x value | [checklist](#dozenal-elements-checklist)
-|---------|--------|---------------|---------|---
-| 'X  | dek     | n/a (ten)    | 10    | yes<sup>[[1]](#note1)</sup> (yes)
-| 'E  | el      | n/a (eleven) | 11    | yes<sup>[[1]](#note1)</sup> (yes)
-| '10 | den     | ten (twelve) | 12    | yes (yes)
-| '11 | solreen<sup>[[2]](#note2)</sup>| eleven (thirteen)| 13 | no<sup>[[3]](#note3)</sup> (yes)
-| '12 | twereen | twelve (fourteen)| 14    | no<sup>[[3]](#note3)</sup> (yes)
-| '13 | thireen | thirteen | 15    | yes
-| '14 | foreen  | fourteen | 16    | yes
-| '15 | fifreen | fifteen  | 17    | yes
-| '16 | sixreen | sixteen  | 18    | yes
-| '17 | sevreen | seventeen  | 19    | yes
-| '18 | eireen | eighteen  | 20    | yes
-| '19 | nireen | nineteen  | 21    | yes
-| '1X | dekreen | n/a  | 22  | yes<sup>[[4]](#note4)</sup>
-| '1E | elreen | n/a  | 23  | yes<sup>[[4]](#note4)</sup>
+| z value | z name | x counterpart | x value | [checklist](#dozenal-elements-checklist) |
+|---------|--------|-------------|---------|---|
+| 'X  | dek     | n/a (ten)  | 10    | yes<sup>[[1]](#note1)</sup> (yes) |
+| 'E  | el      | n/a (eleven) | 11    | yes<sup>[[1]](#note1)</sup> (yes) |
+| '10 | den     | ten (twelve) | 12    | yes (yes) |
+| '11 | solreen<sup>[[2]](#note2)</sup>| eleven (thirteen)| 13 | no<sup>[[3]](#note3)</sup> (yes) |
+| '12 | twereen | twelve (fourteen)| 14    | no<sup>[[3]](#note3)</sup> (yes) |
+| '13 | thireen | thirteen | 15    | yes |
+| '14 | foreen  | fourteen | 16    | yes |
+| '15 | fifreen | fifteen  | 17    | yes |
+| '16 | sixreen | sixteen  | 18    | yes |
+| '17 | sevreen | seventeen| 19    | yes |
+| '18 | eireen | eighteen | 20    | yes |
+| '19 | nireen | nineteen | 21    | yes |
+| '1X | dekreen | n/a  | 22  | yes<sup>[[4]](#note4)</sup> |
+| '1E | elreen | n/a  | 23  | yes<sup>[[4]](#note4)</sup> |
 
 
 <a name="note1"></a> 
@@ -470,32 +470,32 @@ Because almost all the names are designed to pass the [checklist](#dozenal-eleme
 
 #### From '20 to '3E
 
-| z value | z name | x counterpart | x value | [checklist](#dozenal-elements-checklist)
-|---------|--------|---------------|---------|---
-| '20 | <s>tweda</s> twega<sup>[[5.1]](#note5-1)</sup>     | twenty | 24    | yes
-| '21 | twega-one | twenty-one | 25 | yes
-| '22 | twega-two | twenty-two | 26    | yes
-| '23 | twega-three | twenty-three | 27    | yes
-| '24 | twega-four  | twenty-four | 28    | yes
-| '25 | twega-five | twenty-five  | 29    | yes
-| '26 | twega-six | twenty-six  | 30    | yes
-| '27 | twega-seven | twenty-seven  | 31    | yes
-| '28 | twega-eight | twenty-eight  | 32    | yes
-| '29 | twega-nine | twenty-nine  | 33    | yes
-| '2X | twega-dek | n/a | 34 | yes<sup>[[4]](#note4)</sup>
-| '2E | twega-el | n/a  | 35 | yes<sup>[[4]](#note4)</sup>
-| '30 | treda     | thirty | 36    | yes
-| '31 | treda-one | thirty-one | 37 | yes
-| '32 | treda-two | thirty-two | 38    | yes
-| '33 | treda-three | thirty-three | 39    | yes
-| '34 | treda-four  | thirty-four | 40    | yes
-| '35 | treda-five | thirty-five  | 41    | yes
-| '36 | treda-six | thirty-six  | 42    | yes
-| '37 | treda-seven | thirty-seven  | 43    | yes
-| '38 | treda-eight | thirty-eight  | 44    | yes
-| '39 | treda-nine | thirty-nine  | 45    | yes
-| '3X | treda-dek | n/a | 46 | yes<sup>[[4]](#note4)</sup>
-| '3E | treda-el | n/a  | 47 | yes<sup>[[4]](#note4)</sup>
+| z value | z name | x counterpart | x value | [checklist](#dozenal-elements-checklist) |
+|---------|--------|---------------|---------|---|
+| '20 | <s>tweda</s> twega<sup>[[5.1]](#note5-1)</sup>     | twenty | 24    | yes |
+| '21 | twega-one | twenty-one | 25 | yes |
+| '22 | twega-two | twenty-two | 26    | yes |
+| '23 | twega-three | twenty-three | 27    | yes |
+| '24 | twega-four  | twenty-four | 28    | yes |
+| '25 | twega-five | twenty-five  | 29    | yes |
+| '26 | twega-six | twenty-six  | 30    | yes |
+| '27 | twega-seven | twenty-seven  | 31    | yes |
+| '28 | twega-eight | twenty-eight  | 32    | yes |
+| '29 | twega-nine | twenty-nine  | 33    | yes |
+| '2X | twega-dek | n/a | 34 | yes<sup>[[4]](#note4)</sup> |
+| '2E | twega-el | n/a  | 35 | yes<sup>[[4]](#note4)</sup> |
+| '30 | treda     | thirty | 36    | yes |
+| '31 | treda-one | thirty-one | 37 | yes |
+| '32 | treda-two | thirty-two | 38    | yes |
+| '33 | treda-three | thirty-three | 39    | yes |
+| '34 | treda-four  | thirty-four | 40    | yes |
+| '35 | treda-five | thirty-five  | 41    | yes |
+| '36 | treda-six | thirty-six  | 42    | yes |
+| '37 | treda-seven | thirty-seven  | 43    | yes |
+| '38 | treda-eight | thirty-eight  | 44    | yes |
+| '39 | treda-nine | thirty-nine  | 45    | yes |
+| '3X | treda-dek | n/a | 46 | yes<sup>[[4]](#note4)</sup> |
+| '3E | treda-el | n/a  | 47 | yes<sup>[[4]](#note4)</sup> |
 
 <a name="note5-1"></a> 
 [5.1]: From the beginning I was worried about the words *tweda* and *treda* beeing too close in pronunciation. One of the checklist points is to avoid the *thirteen vs. thirty* kind of confusion potential. If you ever heard someone say "three zero" or ask "three zero?" (instead of *thirty*) that's because either the speaker is afraid the listeners won't understand properly or the listener is unsure if they understood properly. 
@@ -524,18 +524,18 @@ Right. So, *tweda* for the two ***D***ozen group and *trena* for the three doze*
 
 #### From '20 to 'E0
 
-| z value | z name | x counterpart | x value | [checklist](#dozenal-elements-checklist)
-|---------|--------|---------------|---------|---
-| '20 | <s>tweda</s> twega<sup>[[5.1]](#note5-1)</sup>     | twenty | 24    | yes
-| '30 | treda     | thirty | 36    | yes
-| '40 | fora<sup>[[5.2]](#note5-2)</sup>| forty | 48    | yes
-| '50 | fifda     | fifty | 60    | yes
-| '60 | sixda     | sixty | 72    | yes
-| '70 | sevda     | seventy | 84    | yes
-| '80 | eida     | eighty | 96    | yes
-| '90 | nineda     | ninety | 108    | yes
-| 'X0 | dekda    | n/a | 120 | yes<sup>[[4]](#note4)</sup>
-| 'E0 | elda     | n/a | 132 | yes<sup>[[4]](#note4)</sup>
+| z value | z name | x counterpart | x value | [checklist](#dozenal-elements-checklist) |
+|---------|--------|---------------|---------|---|
+| '20 | <s>tweda</s> twega<sup>[[5.1]](#note5-1)</sup>     | twenty | 24    | yes |
+| '30 | treda     | thirty | 36    | yes |
+| '40 | fora<sup>[[5.2]](#note5-2)</sup>| forty | 48    | yes |
+| '50 | fifda     | fifty | 60    | yes |
+| '60 | sixda     | sixty | 72    | yes |
+| '70 | sevda     | seventy | 84    | yes |
+| '80 | eida     | eighty | 96    | yes |
+| '90 | nineda     | ninety | 108    | yes |
+| 'X0 | dekda    | n/a | 120 | yes<sup>[[4]](#note4)</sup> |
+| 'E0 | elda     | n/a | 132 | yes<sup>[[4]](#note4)</sup> |
 
 
 <a name="note5-2"></a> 
@@ -544,17 +544,17 @@ Right. So, *tweda* for the two ***D***ozen group and *trena* for the three doze*
 
 #### From '100 to '1,000,000,000,000
 
-| z value | z name | x counterpart | x value | [checklist](#dozenal-elements-checklist)
-|---------|--------|---------------|---------|---
-| '100 | [grezn](#grezn) | hundred | 144    | yes
-| '1,000 | [granden](#granden)| thousand | 1,728    | yes
-| '10,000 | den granden | ten thousand | 20,736    | yes
-| '100,000 | grezn granden| hundred thousand| 248,832| yes
-| '1,000,000 | [magzen](#magzen)| million | 2,985,984 | yes
-| '10,000,000 | den magzen | ten million | 35,831,808| yes
-| '100,000,000 | grezn magzen | hundred million | 429,981,696| yes
-| '1,000,000,000 | [brilzen](#brilzen)| billion | 5,159,780,352 | yes
-| '10<sup>'10</sup> | [tremzen](#tremzen)| trillion | 8.9 x 10<sup>12</sup> | yes
+| z value | z name | x counterpart | x value | [checklist](#dozenal-elements-checklist) |
+|---------|--------|---------------|---------|---|
+| '100 | [grezn](#grezn) | hundred | 144    | yes |
+| '1,000 | [granden](#granden)| thousand | 1,728    | yes |
+| '10,000 | den granden | ten thousand | 20,736    | yes |
+| '100,000 | grezn granden| hundred thousand| 248,832| yes |
+| '1,000,000 | [magzen](#magzen)| million | 2,985,984 | yes |
+| '10,000,000 | den magzen | ten million | 35,831,808| yes |
+| '100,000,000 | grezn magzen | hundred million | 429,981,696| yes |
+| '1,000,000,000 | [brilzen](#brilzen)| billion | 5,159,780,352 | yes |
+| '10<sup>'10</sup> | [tremzen](#tremzen)| trillion | 8.9 x 10<sup>12</sup> | yes |
 
 
 <a name="grezn"></a> 
@@ -608,16 +608,16 @@ ________ => elizen
 
 But now, after entering them into this table, I realized that this is probably not gonna work or will it?
 
-| z value | z name | x counterpart | x value | [checklist](#dozenal-elements-checklist)
-|---------|--------|---------------|---------|---
-| '10<sup>'13</sup> | quadzen | quadrillion | big | ?
-| '10<sup>'16</sup> | quinzen | quintillion | big | ?
-| '10<sup>'19</sup> | sextizen | sextillion | big | ?
-| '10<sup>'20</sup> | septizen | septillion | big | ?
-| '10<sup>'23</sup> | octizen | octillion | big | ?
-| '10<sup>'26</sup> | nonizen | nonillion | big | ?
-| '10<sup>'29</sup> | dekizen | decillion | big | ?
-| '10<sup>'30</sup> | elizen | n/a | big | ?
+| z value | z name | x counterpart | x value | [checklist](#dozenal-elements-checklist) |
+|---------|--------|---------------|---------|---|
+| '10<sup>'13</sup> | quadzen | quadrillion | big | ? |
+| '10<sup>'16</sup> | quinzen | quintillion | big | ? |
+| '10<sup>'19</sup> | sextizen | sextillion | big | ? |
+| '10<sup>'20</sup> | septizen | septillion | big | ? |
+| '10<sup>'23</sup> | octizen | octillion | big | ? |
+| '10<sup>'26</sup> | nonizen | nonillion | big | ? |
+| '10<sup>'29</sup> | dekizen | decillion | big | ? |
+| '10<sup>'30</sup> | elizen | n/a | big | ? |
 
 Do we even NEED dedicated names for those large numbers in the table above?
 
