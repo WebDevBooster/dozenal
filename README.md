@@ -585,6 +585,9 @@ Right. So, *tweda* for the two ***D***ozen group and *trena* for the three doze*
 
 #### From '100 to '1,000,000,000,000
 
+### TODO: replace grezn with hunkzen (hunky dozen).
+Because the same "gr" sound at the beginning of grezn and granden is bound to cause unnecessary cognitive load and confusion.
+
 | z value | z name | x counterpart | x value | [checklist](#dozenal-elements-checklist) |
 |---------|--------|---------------|---------|---|
 | '100 | [grezn](#grezn) | hundred | 144    | yes |
