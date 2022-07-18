@@ -28,6 +28,9 @@
     - [4.5.5 Big numbers](#big-numbers)
   ### [5 Percentage etc.](#percentage-etc)
   ### [6 Dozenal is NEVER "duodecimal"!](#dozenal-is-never-duodecimal)
+  ### [7 Fun Facts](#fun-facts)
+  ### [8 Known Issues](#known-issues)
+  ### [9 Update Notes](#update-notes)
   
 </details>
 
@@ -702,6 +705,27 @@ It should be obvious — without any explanations — why using the word "duodec
 
 Leave the usage of the word "duodecimal" to idiots. Don't ever use that word when referring to the **dozenal** system. The system with base dozen is called **DOZENAL**. The dozenal system doesn't rely on the decimal system in any way, shape or form. So, using the word "decimal" as part of the *dozenal* system's NAME is idiotic to the utmost degree. Or maybe those idiots came up with that abomination of a name in an attempt to hide the fact that decimal is inferior to dozenal?
 
+
+### Fun Facts
+
+The word **dekm̥** is a Proto-Indo-European root meaning "ten". So, the dozenal *dek* fits neatly into that. 
+
+https://www.thefreedictionary.com/_/roots.aspx?type=Indo-European&root=dekm%CC%A5
+
+https://www.etymonline.com/word/*dekm-
+
+
+### Known Issues
+
+MS Excel:  
+In Microsoft Excel (and possibly in other spreadsheet programs), prepending an apostrophe to a number auto-converts the field TYPE from a number field to a text field. We need someone to code a little extension/add-on for Excel that will fix this problem. 
+
+Mark for minutes:  
+An apostrophe following a number is an abbreviation for "minutes". So, when used in combination with the dozenal apostrophe mark before a number this would result in something like `'36'` which would create a number of issues. 
+
+There are a number of ways to solve this problem. First and most obvious: don't use an apostrophe for minutes. Just use *mins.* instead. I mean, how many people even *know* that a single apostrophe after a number is supposed to be a symbol for "minutes"? Hardly any. 
+
+But if you absolutely must use `'` after a number as an abbreviation for minutes, then use a supperscript z to indicate dozenal like so: <sup>z</sup>36'
 
 ### Update Notes
 
