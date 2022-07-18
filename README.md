@@ -717,10 +717,12 @@ https://www.etymonline.com/word/*dekm-
 
 ### Known Issues
 
-MS Excel:  
+#### MS Excel
+
 In Microsoft Excel (and possibly in other spreadsheet programs), prepending an apostrophe to a number auto-converts the field TYPE from a number field to a text field. We need someone to code a little extension/add-on for Excel that will fix this problem. 
 
-Mark for minutes:  
+#### Mark for minutes
+
 An apostrophe following a number is an abbreviation for "minutes". So, when used in combination with the dozenal apostrophe mark before a number this would result in something like `'36'` which would create a number of issues. 
 
 There are a number of ways to solve this problem. First and most obvious: don't use an apostrophe for minutes. Just use *mins.* instead. I mean, how many people even *know* that a single apostrophe after a number is supposed to be a symbol for "minutes"? Hardly any. 
