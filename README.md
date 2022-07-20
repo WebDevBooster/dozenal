@@ -708,11 +708,22 @@ Leave the usage of the word "duodecimal" to idiots. Don't ever use that word whe
 
 ### Fun Facts
 
+#### Dek origins
+
 The word **dekm̥** is a Proto-Indo-European root meaning "ten". So, the dozenal *dek* fits neatly into that. 
 
 https://www.thefreedictionary.com/_/roots.aspx?type=Indo-European&root=dekm%CC%A5
 
 https://www.etymonline.com/word/*dekm-
+
+
+#### Currency in Britain before 1971
+
+Before 1971, Britain had a mix-base currency system. Dating back to ancient Roman times, it consisted of THREE bases in one currency! There were 12 pennies to the shilling (base 12), 20 shillings to the pound (base 20) and for pounds base 10 was in use.
+
+One advantage of Britain's pre-1971 system was the fact that 240 (12 x 20 = 240) had a large number of factors. 
+
+Having a large number of factors/divisors was advantageous in the old times when 1 pound sterling was equivalent to 1 pound weight of silver. This would be equivalent to 274 US dollars or 228 British pounds in the year 2022. So, one penny in ancient times had the same value as 0.95 British pounds in 2022.
 
 
 ### Known Issues
@@ -728,6 +739,7 @@ An apostrophe following a number is an abbreviation for "minutes". So, when used
 There are a number of ways to solve this problem. First and most obvious: don't use an apostrophe for minutes. Just use *mins.* instead. I mean, how many people even *know* that a single apostrophe after a number is supposed to be a symbol for "minutes"? Hardly any. 
 
 But if you absolutely must use `'` after a number as an abbreviation for minutes, then use a supperscript z to indicate dozenal like so: <sup>z</sup>36'
+
 
 ### Update Notes
 
