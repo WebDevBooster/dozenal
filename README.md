@@ -444,22 +444,22 @@ Because almost all the names are designed to pass the [checklist](#dozenal-eleme
 
 #### From 'X to '1E
 
-| z value | z name                                           | x counterpart | x value | [checklist](#dozenal-elements-checklist) |
-|---------|--------------------------------------------------|-------------|---------|------------------------------------------|
-| 'X  | dek                                              | n/a (ten)  | 10    | yes<sup>[[1]](#note1)</sup> (yes)        |
-| 'E  | el                                               | n/a (eleven) | 11    | yes<sup>[[1]](#note1)</sup> (yes)        |
-| '10 | den                                              | ten (twelve) | 12    | yes (yes)                                |
-| '11 | <s>solreen</s><br>soleen<sup>[[2]](#note2)</sup> | eleven (thirteen)| 13 | yes<sup>[[3]](#note3)</sup> (yes)        |
-| '12 | <s>twereen</s><br>delk<sup>[[3]](#note3)</sup>                          | twelve (fourteen)| 14    | yes<sup>[[3]](#note3)</sup> (yes)        |
-| '13 | thireen                                          | thirteen | 15    | yes                                      |
-| '14 | foreen                                           | fourteen | 16    | yes                                      |
-| '15 | fifreen                                          | fifteen  | 17    | yes                                      |
-| '16 | sixreen                                          | sixteen  | 18    | yes                                      |
-| '17 | sevreen                                          | seventeen| 19    | yes                                      |
-| '18 | eireen                                           | eighteen | 20    | yes                                      |
-| '19 | nireen                                           | nineteen | 21    | yes                                      |
-| '1X | dekreen                                          | n/a  | 22  | yes<sup>[[4]](#note4)</sup>              |
-| '1E | elreen                                           | n/a  | 23  | yes<sup>[[4]](#note4)</sup>              |
+| z value | z name                                                        | x counterpart | x value | [checklist](#dozenal-elements-checklist) |
+|---------|---------------------------------------------------------------|-------------|---------|------------------------------------------|
+| 'X  | dek                                                           | n/a (ten)  | 10    | yes<sup>[[1]](#note1)</sup> (yes)        |
+| 'E  | el                                                            | n/a (eleven) | 11    | yes<sup>[[1]](#note1)</sup> (yes)        |
+| '10 | den                                                           | ten (twelve) | 12    | yes (yes)                                |
+| '11 | <s>solreen</s><br>soleen<sup>[[2]](#note2)</sup>              | eleven (thirteen)| 13 | yes<sup>[[3]](#note3)</sup> (yes)        |
+| '12 | <s>twereen</s><br><s>delk</s><br>delm<sup>[[3]](#note3)</sup> | twelve (fourteen)| 14    | yes<sup>[[3]](#note3)</sup> (yes)        |
+| '13 | thireen                                                       | thirteen | 15    | yes                                      |
+| '14 | foreen                                                        | fourteen | 16    | yes                                      |
+| '15 | fifreen                                                       | fifteen  | 17    | yes                                      |
+| '16 | sixreen                                                       | sixteen  | 18    | yes                                      |
+| '17 | sevreen                                                       | seventeen| 19    | yes                                      |
+| '18 | eireen                                                        | eighteen | 20    | yes                                      |
+| '19 | nireen                                                        | nineteen | 21    | yes                                      |
+| '1X | dekreen                                                       | n/a  | 22  | yes<sup>[[4]](#note4)</sup>              |
+| '1E | elreen                                                        | n/a  | 23  | yes<sup>[[4]](#note4)</sup>              |
 
 
 <a name="note1"></a> 
@@ -469,7 +469,8 @@ Because almost all the names are designed to pass the [checklist](#dozenal-eleme
 [2]: The *sol* bit in *soleen* stands for "solitary".
 
 <a name="note3"></a> 
-[3]: After replacing *solreen* with **soleen** the checklist passes for *eleven*. Plus, **soleen** is much easier to pronounce. And after replacing *twereen* with **delk** the checklist now also passes for *twelve* and we have a super satisfying win across the board! I just came up with these replacements for *solreen* and *twereen* and they feel great. First, I thought that simply just dropping the "r" from *solreen* is a neat way to solve the problem there. And since the *sol* bit in *soleen* stands for "solitary", I thought why not apply the same idea to the counterpart for *twelve* and start the word with a "d" which stands for "duo". So, starting with "d" I thought that **delk** feels like a nice, short and easy to pronounce word that ticks all the checklist boxes. 
+[3]: After replacing *solreen* with **soleen** the checklist passes for *eleven*. Plus, **soleen** is much easier to pronounce. And after replacing *twereen* with **delk** the checklist now also passes for *twelve* and we have a super satisfying win across the board! I just came up with these replacements for *solreen* and *twereen* and they feel great. First, I thought that simply just dropping the "r" from *solreen* is a neat way to solve the problem there. And since the *sol* bit in *soleen* stands for "solitary", I thought why not apply the same idea to the counterpart for *twelve* and start the word with a "d" which stands for "duo". So, starting with "d" I thought that **delk** feels like a nice, short and easy to pronounce word that ticks all the checklist boxes. <br> 
+Update: realized that *delk* is too close to *dek*. So, to avoid potential confusion, let's go with **delm** instead.
 
 <a name="note4"></a> 
 [4]: There's no decimal counterpart, but if we assumed the guidelines as the checklist, it would pass.
